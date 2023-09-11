@@ -1,0 +1,4 @@
+Gemfile.lock
+service-account-key.json
+.bundle
+vendor
