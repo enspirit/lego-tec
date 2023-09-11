@@ -6,9 +6,9 @@ def timeline_blocks(raw_data)
   start = nil
   raw_data.each_with_index do |line, i|
     if line[0] =~ /Jour.s. de circulation/
-      raise "State error" unless start.nil?
+      raise "State error: #{start.inspect} & #{i} : #{line.inspect}" unless start.nil?
       start = i
-    elsif line[0] =~ /Numéro de voyage/
+    elsif line[0] =~ /Numéro de voyage|Numéro de voyage/
       raise "State error" if start.nil?
       blocks << (start..i)
       start = nil

@@ -1,3 +1,4 @@
 #!/bin/sh
 bundle exec ruby lib/extract_worksheet_raw_data.rb 1kx81vQRMGJLwhtC0UfJb775CvKBT7HwAsrAxymSF0f0 147a > data/raw_data/old/147a.json
 bundle exec ruby lib/extract_worksheet_raw_data.rb 1JJwYDKCEDib3F_dX48DIwMu0XA2y9vcmn37CqGU21nQ 247a > data/raw_data/old/247a.json
+bundle exec ruby lib/extract_worksheet_raw_data.rb 10gpp-WAT6OK6FnRQl6LVOb-2SLEZtOHVgyyQ9ojNRYo 347a > data/raw_data/old/347a.json
