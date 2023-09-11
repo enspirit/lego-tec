@@ -38,9 +38,9 @@ def extract_timeline(bus_line)
 end
 
 root = Path.backfind('.[Gemfile]')
-(root/'data'/'raw').glob("*.json") do |file|
+(root/'data'/'raw_data'/'old').glob("*.json") do |file|
   lines = file.load.map{|line|
     extract_timeline(line)
   }.flatten
-  ((root/'data')/file.basename).write(JSON.pretty_generate(lines))
+  ((root/'data'/'seminormalized')/file.basename).write(JSON.pretty_generate(lines))
 end

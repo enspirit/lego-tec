@@ -14,10 +14,11 @@ def extract_worksheet_data(worksheet)
       worksheet[row_num, col_num]
     end
   end
-  split = worksheet.title.split(' ')
+  split = worksheet.title.split(' - ')
   {
-    bl_num: split[0],
+    b_name: split[0],
     bl_variant: split[1],
+    bl_direction: split[2],
     bl_title: worksheet.title,
     bl_raw_data: raw_data,
   }
@@ -27,4 +28,4 @@ data = worksheets.map do |worksheet|
   extract_worksheet_data(worksheet)
 end
 
-(Path.backfind('.[Gemfile]')/'data'/'raw'/"#{name}.json").write(JSON.pretty_generate data)
+(Path.backfind('.[Gemfile]')/'data'/'raw_data'/'old'/"#{name}.json").write(JSON.pretty_generate data)

@@ -1,0 +1,302 @@
+[
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "12:26"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_time": "12:31"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "12:36"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "12:40"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": "12:41"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "12:42"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "12:46"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "12:50"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Sombreffe (Pont-au-Rieu)",
+    "bs_time": "12:55"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "12:59"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:26"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_time": "16:31"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "16:36"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "16:40"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": "16:41"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "16:42"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "16:46"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "16:50"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Sombreffe (Pont-au-Rieu)",
+    "bs_time": "16:55"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Sombreffe",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "16:59"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "7:36"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Sombreffe (Pont-au-Rieu)",
+    "bs_time": "7:40"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "7:45"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "7:50"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "7:52"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": "7:53"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "7:54"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "7:58"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_time": "8:05"
+  },
+  {
+    "bl_name": "831",
+    "bl_title": "Gembloux - Sombreffe",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:10"
+  }
+]

@@ -1,8 +1,9 @@
 [
   {
-    "bl_name": "147a",
+    "b_name": "147a",
     "bl_variant": "SCOLAIRE",
     "bl_title": "147a SCOLAIRE -> Tamines",
+    "bl_direction": "Vers Tamines",
     "bl_raw_data": [
       [
         "Jour(s) de circulation",
@@ -862,9 +863,10 @@
     ]
   },
   {
-    "bl_name": "147a",
+    "b_name": "147a",
     "bl_variant": "SCOLAIRE",
     "bl_title": "147a SCOLAIRE -> Gembloux",
+    "bl_direction": "Vers Gembloux",
     "bl_raw_data": [
       [
         "Jour(s) de circulation",
@@ -1439,9 +1441,10 @@
     ]
   },
   {
-    "bl_name": "147a",
+    "b_name": "147a",
     "bl_variant": "VACANCES",
     "bl_title": "147a VACANCES -> Tamines",
+    "bl_direction": "Vers Tamines",
     "bl_raw_data": [
       [
         "Jour(s) de circulation",
@@ -2016,9 +2019,10 @@
     ]
   },
   {
-    "bl_name": "147a",
+    "b_name": "147a",
     "bl_variant": "VACANCES",
     "bl_title": "147a VACANCES -> Gembloux",
+    "bl_direction": "Vers Gembloux",
     "bl_raw_data": [
       [
         "Jour(s) de circulation",
@@ -2593,9 +2597,10 @@
     ]
   },
   {
-    "bl_name": "147a",
+    "b_name": "147a",
     "bl_variant": "SAMEDI",
     "bl_title": "147a SAMEDI -> Tamines",
+    "bl_direction": "Vers Tamines",
     "bl_raw_data": [
       [
         "Jour(s) de circulation",
@@ -2866,9 +2871,10 @@
     ]
   },
   {
-    "bl_name": "147a",
+    "b_name": "147a",
     "bl_variant": "SAMEDI",
     "bl_title": "147a SAMEDI -> Gembloux",
+    "bl_direction": "Vers Gembloux",
     "bl_raw_data": [
       [
         "Jour(s) de circulation",

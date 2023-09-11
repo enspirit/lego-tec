@@ -1,0 +1,4 @@
+#!/bin/sh
+rm -rf data/seminormalized/*
+bundle exec ruby lib/parse_worksheet_raw_data.rb
+bundle exec ruby lib/parse_pdf_raw_data.rb

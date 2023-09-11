@@ -1,0 +1,362 @@
+[
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "12:25"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Gare Quai 6)",
+    "bs_time": "12:30"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "12:35"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Grand-Manil (Clos Normand)",
+    "bs_time": "12:36"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "12:39"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": "12:43"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Bothey (Chapelle)",
+    "bs_time": "12:48"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": "12:49"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": "12:54"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Boignée (Place)",
+    "bs_time": "13:02"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": "13:06"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": "13:09"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:25"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Gare Quai 6)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "16:35"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Grand-Manil (Clos Normand)",
+    "bs_time": "16:36"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "16:39"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": "16:43"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Bothey (Chapelle)",
+    "bs_time": "16:48"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": "16:49"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": "16:54"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Boignée (Place)",
+    "bs_time": "17:02"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": "17:06"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tongrinne",
+    "bl_num": "3",
+    "bl_days": "LM*JV",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": "17:09"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": "7:21"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": "7:24"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Boignée (Place)",
+    "bs_time": "7:28"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "BALATRE (Village)",
+    "bs_time": "7:34"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": "7:36"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": "7:41"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Bothey (Chapelle)",
+    "bs_time": "7:42"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": "7:48"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "7:52"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "7:56"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 6)",
+    "bs_time": "8:03"
+  },
+  {
+    "bl_name": "833",
+    "bl_title": "Gembloux - Corroy - St Martin - Tongrinne",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:08"
+  }
+]

@@ -1,0 +1,3202 @@
+[
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "6:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "6:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "6:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "6:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "6:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "6:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "6:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "6:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "6:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "6:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "7:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "7:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "7:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "7:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "7:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "7:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "7:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "7:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "7:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "7:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "8:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "8:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "8:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "8:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "8:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "8:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "8:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "8:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "8:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "13:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "13:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "13:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "13:56"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "14:00"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "14:06"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "14:10"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "14:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "14:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "14:28"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "16:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "16:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "16:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "16:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "16:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "16:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "16:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "16:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "17:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "17:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "17:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "17:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "17:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "17:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "17:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "17:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "17:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "17:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "18:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "18:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "18:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "18:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "18:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "18:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "18:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "18:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "18:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "18:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "19:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "19:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "19:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "19:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "19:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "19:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "19:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "19:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "19:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "19:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "5:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "5:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "5:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "5:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "5:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "5:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "5:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "5:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "5:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "5:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "6:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "6:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "6:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "6:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "6:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "6:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "6:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "6:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "6:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "6:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "7:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "7:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "7:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "7:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "7:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "7:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "7:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "7:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "7:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "7:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "8:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "8:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "8:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "8:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "8:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "8:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "8:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "8:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "8:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "12:32"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "12:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "12:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "12:50"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "12:54"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "13:00"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "13:04"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "13:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "13:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "13:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "16:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "16:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "16:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "16:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "16:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "16:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "16:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "16:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "17:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "17:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "17:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "17:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "17:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "17:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "17:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "17:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "17:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "17:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "18:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "18:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "18:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "18:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "18:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "18:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "18:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "18:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "18:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "18:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "6:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "6:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "6:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "6:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "6:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "6:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "6:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "6:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "6:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "1",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "6:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "7:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "7:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "7:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "7:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "7:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "7:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "7:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "7:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "7:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "3",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "7:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "8:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "8:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "8:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "8:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "8:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "8:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "8:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "8:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "5",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "8:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "13:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "13:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "13:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "13:56"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "14:00"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "14:06"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "14:10"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "14:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "14:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "7",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "14:28"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "16:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "16:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "16:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "16:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "16:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "16:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "16:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "9",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "16:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "17:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "17:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "17:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "17:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "17:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "17:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "17:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "17:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "17:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "11",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "17:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "18:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "18:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "18:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "18:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "18:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "18:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "18:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "18:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "18:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "13",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "18:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 2)",
+    "bs_time": "19:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "19:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "19:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "19:26"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "19:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "19:36"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "19:40"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "19:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "19:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Tamines",
+    "bl_num": "15",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "19:58"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "5:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "5:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "5:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "5:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "5:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "5:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "5:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "5:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "5:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "5:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "6:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "6:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "6:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "6:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "6:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "6:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "6:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "6:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "6:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "6:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "7:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "7:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "7:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "7:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "7:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "7:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "7:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "7:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "7:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "7:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "8:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "8:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "8:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "8:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "8:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "8:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "8:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "8:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "8",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "8:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "12:32"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "12:42"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "12:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "12:50"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "12:54"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "13:00"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "13:04"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "13:07"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "13:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "10",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "13:23"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "16:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "16:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "16:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "16:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "16:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "16:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "16:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "12",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "16:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "17:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "17:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "17:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "17:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "17:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "17:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "17:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "17:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "17:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "14",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "17:53"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tamines (Gare SNCB)",
+    "bs_time": "18:02"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Auvelais (Rue Dr Romedenne - Gare SNCB)",
+    "bs_time": "18:12"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Saint-Roch)",
+    "bs_time": "18:18"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Jemeppe (Froidmont)",
+    "bs_time": "18:20"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": "18:24"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Spy (Vieille Place)",
+    "bs_time": "18:30"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Créalys)",
+    "bs_time": "18:34"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Les Isnes (Chapelle)",
+    "bs_time": "18:37"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "18:48"
+  },
+  {
+    "bl_name": "E85",
+    "bl_title": "Gembloux - Tamines",
+    "bl_variant": "Vacances scolaires",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "16",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": "18:53"
+  }
+]

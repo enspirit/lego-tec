@@ -1,0 +1,812 @@
+[
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "12:03"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "12:08"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "12:13"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "12:17"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "12:19"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "12:23"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "12:27"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "12:31"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "1",
+    "bl_days": "**Me**",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "12:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "12:24"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "12:29"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "12:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "12:38"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "12:40"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "12:44"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "12:48"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "12:52"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "3",
+    "bl_days": "**Me**",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "12:55"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "13:03"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "13:08"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "13:13"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "13:17"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "13:19"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "13:23"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "13:27"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "13:31"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "9",
+    "bl_days": "**Me**",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "13:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:10"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "16:15"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "16:20"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "16:24"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "16:26"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "16:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "16:38"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "13",
+    "bl_days": "LM*JV",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "16:41"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:10"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "16:15"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "16:20"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "16:24"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "16:26"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "16:30"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "16:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "16:38"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "11",
+    "bl_days": "LM*JV",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "16:41"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "16:24"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "16:29"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "16:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "16:38"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "16:40"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "16:44"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "16:48"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "16:52"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Ligny",
+    "bl_num": "15",
+    "bl_days": "LM*JV",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "16:55"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "7:28"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "7:30"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "7:34"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "7:39"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "7:41"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "7:43"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "7:47"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "7:54"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "2",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "7:59"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "7:45"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "7:47"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "7:51"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "7:56"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "7:58"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "8:00"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "8:04"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "8:11"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "4",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:16"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "LIGNY Quatre Bras",
+    "bs_time": "8:10"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Ligny (Gare du Sud)",
+    "bs_time": "8:12"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_time": "8:16"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": "8:21"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_time": "8:23"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_time": "8:25"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": "8:29"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_time": "8:36"
+  },
+  {
+    "bl_name": "832",
+    "bl_title": "Gembloux - Sombreffe - Ligny",
+    "bl_variant": "Période scolaire",
+    "bl_direction": "Vers Gembloux",
+    "bl_num": "6",
+    "bl_days": "LMMeJV",
+    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_time": "8:41"
+  }
+]
