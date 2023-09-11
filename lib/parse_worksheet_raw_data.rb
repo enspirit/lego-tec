@@ -27,6 +27,7 @@ def extract_timeline(bus_line)
       bus_stops = raw_data[(block.begin+1)...block.end].map{|line|
         next if line[col_index].to_s.empty?
         bus_line.merge({
+          bl_system: "BEFORE",
           bl_num: bl_num,
           bl_days: bl_days,
           bs_name: line[0].strip,

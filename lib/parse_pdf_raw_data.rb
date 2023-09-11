@@ -8,6 +8,7 @@ def flatten_bus_lines(data)
     slices.map{|slice|
       next if slice[i+1].nil? || slice[i+1].empty?
       {
+        bl_system: "AFTER",
         bl_name: data[:bl_name],
         bl_title: data[:bl_title],
         bl_variant: data[:bl_variant],

@@ -1,5 +1,6 @@
 [
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -10,6 +11,7 @@
     "bs_time": "6:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -20,6 +22,7 @@
     "bs_time": "6:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -30,6 +33,7 @@
     "bs_time": "6:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -40,6 +44,7 @@
     "bs_time": "6:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -50,6 +55,7 @@
     "bs_time": "6:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -60,6 +66,7 @@
     "bs_time": "6:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -70,6 +77,7 @@
     "bs_time": "6:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -80,6 +88,7 @@
     "bs_time": "6:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -90,6 +99,7 @@
     "bs_time": "6:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -100,6 +110,7 @@
     "bs_time": "6:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -110,6 +121,7 @@
     "bs_time": "6:47"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -120,6 +132,7 @@
     "bs_time": "6:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -130,6 +143,7 @@
     "bs_time": "7:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -140,6 +154,7 @@
     "bs_time": "7:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -150,6 +165,7 @@
     "bs_time": "7:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -160,6 +176,7 @@
     "bs_time": "7:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -170,6 +187,7 @@
     "bs_time": "7:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -180,6 +198,7 @@
     "bs_time": "7:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -190,6 +209,7 @@
     "bs_time": "7:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -200,6 +220,7 @@
     "bs_time": "7:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -210,6 +231,7 @@
     "bs_time": "7:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -220,6 +242,7 @@
     "bs_time": "7:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -230,6 +253,7 @@
     "bs_time": "7:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -240,6 +264,7 @@
     "bs_time": "8:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -250,6 +275,7 @@
     "bs_time": "8:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -260,6 +286,7 @@
     "bs_time": "8:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -270,6 +297,7 @@
     "bs_time": "8:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -280,6 +308,7 @@
     "bs_time": "8:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -290,6 +319,7 @@
     "bs_time": "8:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -300,6 +330,7 @@
     "bs_time": "8:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -310,6 +341,7 @@
     "bs_time": "8:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -320,6 +352,7 @@
     "bs_time": "8:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -330,6 +363,7 @@
     "bs_time": "8:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -340,6 +374,7 @@
     "bs_time": "8:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -350,6 +385,7 @@
     "bs_time": "8:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -360,6 +396,7 @@
     "bs_time": "9:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -370,6 +407,7 @@
     "bs_time": "9:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -380,6 +418,7 @@
     "bs_time": "9:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -390,6 +429,7 @@
     "bs_time": "9:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -400,6 +440,7 @@
     "bs_time": "9:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -410,6 +451,7 @@
     "bs_time": "9:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -420,6 +462,7 @@
     "bs_time": "9:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -430,6 +473,7 @@
     "bs_time": "9:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -440,6 +484,7 @@
     "bs_time": "9:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -450,6 +495,7 @@
     "bs_time": "9:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -460,6 +506,7 @@
     "bs_time": "9:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -470,6 +517,7 @@
     "bs_time": "9:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -480,6 +528,7 @@
     "bs_time": "10:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -490,6 +539,7 @@
     "bs_time": "10:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -500,6 +550,7 @@
     "bs_time": "10:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -510,6 +561,7 @@
     "bs_time": "10:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -520,6 +572,7 @@
     "bs_time": "10:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -530,6 +583,7 @@
     "bs_time": "10:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -540,6 +594,7 @@
     "bs_time": "10:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -550,6 +605,7 @@
     "bs_time": "10:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -560,6 +616,7 @@
     "bs_time": "10:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -570,6 +627,7 @@
     "bs_time": "10:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -580,6 +638,7 @@
     "bs_time": "10:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -590,6 +649,7 @@
     "bs_time": "10:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -600,6 +660,7 @@
     "bs_time": "11:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -610,6 +671,7 @@
     "bs_time": "11:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -620,6 +682,7 @@
     "bs_time": "11:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -630,6 +693,7 @@
     "bs_time": "11:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -640,6 +704,7 @@
     "bs_time": "11:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -650,6 +715,7 @@
     "bs_time": "11:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -660,6 +726,7 @@
     "bs_time": "11:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -670,6 +737,7 @@
     "bs_time": "11:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -680,6 +748,7 @@
     "bs_time": "11:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -690,6 +759,7 @@
     "bs_time": "11:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -700,6 +770,7 @@
     "bs_time": "11:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -710,6 +781,7 @@
     "bs_time": "11:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -720,6 +792,7 @@
     "bs_time": "12:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -730,6 +803,7 @@
     "bs_time": "12:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -740,6 +814,7 @@
     "bs_time": "12:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -750,6 +825,7 @@
     "bs_time": "12:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -760,6 +836,7 @@
     "bs_time": "12:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -770,6 +847,7 @@
     "bs_time": "12:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -780,6 +858,7 @@
     "bs_time": "12:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -790,6 +869,7 @@
     "bs_time": "12:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -800,6 +880,7 @@
     "bs_time": "12:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -810,6 +891,7 @@
     "bs_time": "12:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -820,6 +902,7 @@
     "bs_time": "12:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -830,6 +913,7 @@
     "bs_time": "12:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -840,6 +924,7 @@
     "bs_time": "13:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -850,6 +935,7 @@
     "bs_time": "13:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -860,6 +946,7 @@
     "bs_time": "13:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -870,6 +957,7 @@
     "bs_time": "13:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -880,6 +968,7 @@
     "bs_time": "13:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -890,6 +979,7 @@
     "bs_time": "13:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -900,6 +990,7 @@
     "bs_time": "13:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -910,6 +1001,7 @@
     "bs_time": "13:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -920,6 +1012,7 @@
     "bs_time": "13:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -930,6 +1023,7 @@
     "bs_time": "13:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -940,6 +1034,7 @@
     "bs_time": "13:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -950,6 +1045,7 @@
     "bs_time": "13:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -960,6 +1056,7 @@
     "bs_time": "14:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -970,6 +1067,7 @@
     "bs_time": "14:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -980,6 +1078,7 @@
     "bs_time": "14:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -990,6 +1089,7 @@
     "bs_time": "14:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1000,6 +1100,7 @@
     "bs_time": "14:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1010,6 +1111,7 @@
     "bs_time": "14:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1020,6 +1122,7 @@
     "bs_time": "14:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1030,6 +1133,7 @@
     "bs_time": "14:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1040,6 +1144,7 @@
     "bs_time": "14:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1050,6 +1155,7 @@
     "bs_time": "14:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1060,6 +1166,7 @@
     "bs_time": "14:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1070,6 +1177,7 @@
     "bs_time": "14:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1080,6 +1188,7 @@
     "bs_time": "15:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1090,6 +1199,7 @@
     "bs_time": "15:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1100,6 +1210,7 @@
     "bs_time": "15:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1110,6 +1221,7 @@
     "bs_time": "15:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1120,6 +1232,7 @@
     "bs_time": "15:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1130,6 +1243,7 @@
     "bs_time": "15:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1140,6 +1254,7 @@
     "bs_time": "15:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1150,6 +1265,7 @@
     "bs_time": "15:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1160,6 +1276,7 @@
     "bs_time": "15:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1170,6 +1287,7 @@
     "bs_time": "15:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1180,6 +1298,7 @@
     "bs_time": "15:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1190,6 +1309,7 @@
     "bs_time": "15:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1200,6 +1320,7 @@
     "bs_time": "16:05"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1210,6 +1331,7 @@
     "bs_time": "16:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1220,6 +1342,7 @@
     "bs_time": "16:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1230,6 +1353,7 @@
     "bs_time": "16:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1240,6 +1364,7 @@
     "bs_time": "16:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1250,6 +1375,7 @@
     "bs_time": "16:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1260,6 +1386,7 @@
     "bs_time": "16:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1270,6 +1397,7 @@
     "bs_time": "16:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1280,6 +1408,7 @@
     "bs_time": "16:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1290,6 +1419,7 @@
     "bs_time": "16:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1300,6 +1430,7 @@
     "bs_time": "16:46"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1310,6 +1441,7 @@
     "bs_time": "16:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1320,6 +1452,7 @@
     "bs_time": "17:08"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1330,6 +1463,7 @@
     "bs_time": "17:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1340,6 +1474,7 @@
     "bs_time": "17:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1350,6 +1485,7 @@
     "bs_time": "17:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1360,6 +1496,7 @@
     "bs_time": "17:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1370,6 +1507,7 @@
     "bs_time": "17:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1380,6 +1518,7 @@
     "bs_time": "17:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1390,6 +1529,7 @@
     "bs_time": "17:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1400,6 +1540,7 @@
     "bs_time": "17:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1410,6 +1551,7 @@
     "bs_time": "17:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1420,6 +1562,7 @@
     "bs_time": "17:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1430,6 +1573,7 @@
     "bs_time": "17:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1440,6 +1584,7 @@
     "bs_time": "18:05"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1450,6 +1595,7 @@
     "bs_time": "18:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1460,6 +1606,7 @@
     "bs_time": "18:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1470,6 +1617,7 @@
     "bs_time": "18:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1480,6 +1628,7 @@
     "bs_time": "18:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1490,6 +1639,7 @@
     "bs_time": "18:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1500,6 +1650,7 @@
     "bs_time": "18:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1510,6 +1661,7 @@
     "bs_time": "18:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1520,6 +1672,7 @@
     "bs_time": "18:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1530,6 +1683,7 @@
     "bs_time": "18:39"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1540,6 +1694,7 @@
     "bs_time": "18:42"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1550,6 +1705,7 @@
     "bs_time": "18:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1560,6 +1716,7 @@
     "bs_time": "19:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1570,6 +1727,7 @@
     "bs_time": "19:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1580,6 +1738,7 @@
     "bs_time": "19:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1590,6 +1749,7 @@
     "bs_time": "19:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1600,6 +1760,7 @@
     "bs_time": "19:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1610,6 +1771,7 @@
     "bs_time": "19:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1620,6 +1782,7 @@
     "bs_time": "19:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1630,6 +1793,7 @@
     "bs_time": "19:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1640,6 +1804,7 @@
     "bs_time": "19:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1650,6 +1815,7 @@
     "bs_time": "19:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1660,6 +1826,7 @@
     "bs_time": "19:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1670,6 +1837,7 @@
     "bs_time": "19:47"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1680,6 +1848,7 @@
     "bs_time": "19:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1690,6 +1859,7 @@
     "bs_time": "5:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1700,6 +1870,7 @@
     "bs_time": "6:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1710,6 +1881,7 @@
     "bs_time": "6:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1720,6 +1892,7 @@
     "bs_time": "6:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1730,6 +1903,7 @@
     "bs_time": "6:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1740,6 +1914,7 @@
     "bs_time": "6:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1750,6 +1925,7 @@
     "bs_time": "6:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1760,6 +1936,7 @@
     "bs_time": "6:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1770,6 +1947,7 @@
     "bs_time": "6:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1780,6 +1958,7 @@
     "bs_time": "6:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1790,6 +1969,7 @@
     "bs_time": "6:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1800,6 +1980,7 @@
     "bs_time": "6:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1810,6 +1991,7 @@
     "bs_time": "6:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1820,6 +2002,7 @@
     "bs_time": "7:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1830,6 +2013,7 @@
     "bs_time": "7:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1840,6 +2024,7 @@
     "bs_time": "7:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1850,6 +2035,7 @@
     "bs_time": "7:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1860,6 +2046,7 @@
     "bs_time": "7:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1870,6 +2057,7 @@
     "bs_time": "7:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1880,6 +2068,7 @@
     "bs_time": "7:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1890,6 +2079,7 @@
     "bs_time": "7:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1900,6 +2090,7 @@
     "bs_time": "7:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1910,6 +2101,7 @@
     "bs_time": "7:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1920,6 +2112,7 @@
     "bs_time": "7:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1930,6 +2123,7 @@
     "bs_time": "7:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1940,6 +2134,7 @@
     "bs_time": "8:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1950,6 +2145,7 @@
     "bs_time": "8:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1960,6 +2156,7 @@
     "bs_time": "8:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1970,6 +2167,7 @@
     "bs_time": "8:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1980,6 +2178,7 @@
     "bs_time": "8:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -1990,6 +2189,7 @@
     "bs_time": "8:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2000,6 +2200,7 @@
     "bs_time": "8:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2010,6 +2211,7 @@
     "bs_time": "8:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2020,6 +2222,7 @@
     "bs_time": "8:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2030,6 +2233,7 @@
     "bs_time": "8:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2040,6 +2244,7 @@
     "bs_time": "8:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2050,6 +2255,7 @@
     "bs_time": "8:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2060,6 +2266,7 @@
     "bs_time": "9:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2070,6 +2277,7 @@
     "bs_time": "9:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2080,6 +2288,7 @@
     "bs_time": "9:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2090,6 +2299,7 @@
     "bs_time": "9:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2100,6 +2310,7 @@
     "bs_time": "9:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2110,6 +2321,7 @@
     "bs_time": "9:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2120,6 +2332,7 @@
     "bs_time": "9:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2130,6 +2343,7 @@
     "bs_time": "9:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2140,6 +2354,7 @@
     "bs_time": "9:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2150,6 +2365,7 @@
     "bs_time": "9:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2160,6 +2376,7 @@
     "bs_time": "9:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2170,6 +2387,7 @@
     "bs_time": "9:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2180,6 +2398,7 @@
     "bs_time": "10:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2190,6 +2409,7 @@
     "bs_time": "10:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2200,6 +2420,7 @@
     "bs_time": "10:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2210,6 +2431,7 @@
     "bs_time": "10:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2220,6 +2442,7 @@
     "bs_time": "10:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2230,6 +2453,7 @@
     "bs_time": "10:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2240,6 +2464,7 @@
     "bs_time": "10:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2250,6 +2475,7 @@
     "bs_time": "10:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2260,6 +2486,7 @@
     "bs_time": "10:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2270,6 +2497,7 @@
     "bs_time": "10:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2280,6 +2508,7 @@
     "bs_time": "10:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2290,6 +2519,7 @@
     "bs_time": "10:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2300,6 +2530,7 @@
     "bs_time": "11:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2310,6 +2541,7 @@
     "bs_time": "11:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2320,6 +2552,7 @@
     "bs_time": "11:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2330,6 +2563,7 @@
     "bs_time": "11:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2340,6 +2574,7 @@
     "bs_time": "11:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2350,6 +2585,7 @@
     "bs_time": "11:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2360,6 +2596,7 @@
     "bs_time": "11:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2370,6 +2607,7 @@
     "bs_time": "11:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2380,6 +2618,7 @@
     "bs_time": "11:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2390,6 +2629,7 @@
     "bs_time": "11:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2400,6 +2640,7 @@
     "bs_time": "11:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2410,6 +2651,7 @@
     "bs_time": "11:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2420,6 +2662,7 @@
     "bs_time": "12:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2430,6 +2673,7 @@
     "bs_time": "12:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2440,6 +2684,7 @@
     "bs_time": "12:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2450,6 +2695,7 @@
     "bs_time": "12:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2460,6 +2706,7 @@
     "bs_time": "12:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2470,6 +2717,7 @@
     "bs_time": "12:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2480,6 +2728,7 @@
     "bs_time": "12:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2490,6 +2739,7 @@
     "bs_time": "12:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2500,6 +2750,7 @@
     "bs_time": "12:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2510,6 +2761,7 @@
     "bs_time": "12:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2520,6 +2772,7 @@
     "bs_time": "12:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2530,6 +2783,7 @@
     "bs_time": "12:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2540,6 +2794,7 @@
     "bs_time": "13:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2550,6 +2805,7 @@
     "bs_time": "13:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2560,6 +2816,7 @@
     "bs_time": "13:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2570,6 +2827,7 @@
     "bs_time": "13:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2580,6 +2838,7 @@
     "bs_time": "13:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2590,6 +2849,7 @@
     "bs_time": "13:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2600,6 +2860,7 @@
     "bs_time": "13:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2610,6 +2871,7 @@
     "bs_time": "13:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2620,6 +2882,7 @@
     "bs_time": "13:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2630,6 +2893,7 @@
     "bs_time": "13:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2640,6 +2904,7 @@
     "bs_time": "13:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2650,6 +2915,7 @@
     "bs_time": "13:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2660,6 +2926,7 @@
     "bs_time": "14:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2670,6 +2937,7 @@
     "bs_time": "14:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2680,6 +2948,7 @@
     "bs_time": "14:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2690,6 +2959,7 @@
     "bs_time": "14:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2700,6 +2970,7 @@
     "bs_time": "14:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2710,6 +2981,7 @@
     "bs_time": "14:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2720,6 +2992,7 @@
     "bs_time": "14:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2730,6 +3003,7 @@
     "bs_time": "14:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2740,6 +3014,7 @@
     "bs_time": "14:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2750,6 +3025,7 @@
     "bs_time": "14:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2760,6 +3036,7 @@
     "bs_time": "14:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2770,6 +3047,7 @@
     "bs_time": "14:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2780,6 +3058,7 @@
     "bs_time": "15:09"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2790,6 +3069,7 @@
     "bs_time": "15:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2800,6 +3080,7 @@
     "bs_time": "15:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2810,6 +3091,7 @@
     "bs_time": "15:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2820,6 +3102,7 @@
     "bs_time": "15:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2830,6 +3113,7 @@
     "bs_time": "15:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2840,6 +3124,7 @@
     "bs_time": "15:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2850,6 +3135,7 @@
     "bs_time": "15:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2860,6 +3146,7 @@
     "bs_time": "15:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2870,6 +3157,7 @@
     "bs_time": "15:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2880,6 +3168,7 @@
     "bs_time": "15:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2890,6 +3179,7 @@
     "bs_time": "15:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2900,6 +3190,7 @@
     "bs_time": "16:09"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2910,6 +3201,7 @@
     "bs_time": "16:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2920,6 +3212,7 @@
     "bs_time": "16:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2930,6 +3223,7 @@
     "bs_time": "16:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2940,6 +3234,7 @@
     "bs_time": "16:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2950,6 +3245,7 @@
     "bs_time": "16:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2960,6 +3256,7 @@
     "bs_time": "16:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2970,6 +3267,7 @@
     "bs_time": "16:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2980,6 +3278,7 @@
     "bs_time": "16:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -2990,6 +3289,7 @@
     "bs_time": "16:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3000,6 +3300,7 @@
     "bs_time": "16:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3010,6 +3311,7 @@
     "bs_time": "16:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3020,6 +3322,7 @@
     "bs_time": "17:09"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3030,6 +3333,7 @@
     "bs_time": "17:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3040,6 +3344,7 @@
     "bs_time": "17:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3050,6 +3355,7 @@
     "bs_time": "17:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3060,6 +3366,7 @@
     "bs_time": "17:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3070,6 +3377,7 @@
     "bs_time": "17:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3080,6 +3388,7 @@
     "bs_time": "17:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3090,6 +3399,7 @@
     "bs_time": "17:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3100,6 +3410,7 @@
     "bs_time": "17:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3110,6 +3421,7 @@
     "bs_time": "17:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3120,6 +3432,7 @@
     "bs_time": "17:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3130,6 +3443,7 @@
     "bs_time": "17:57"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3140,6 +3454,7 @@
     "bs_time": "18:13"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3150,6 +3465,7 @@
     "bs_time": "18:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3160,6 +3476,7 @@
     "bs_time": "18:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3170,6 +3487,7 @@
     "bs_time": "18:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3180,6 +3498,7 @@
     "bs_time": "18:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3190,6 +3509,7 @@
     "bs_time": "18:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3200,6 +3520,7 @@
     "bs_time": "18:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3210,6 +3531,7 @@
     "bs_time": "18:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3220,6 +3542,7 @@
     "bs_time": "18:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3230,6 +3553,7 @@
     "bs_time": "18:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3240,6 +3564,7 @@
     "bs_time": "18:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3250,6 +3575,7 @@
     "bs_time": "18:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3260,6 +3586,7 @@
     "bs_time": "19:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3270,6 +3597,7 @@
     "bs_time": "19:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3280,6 +3608,7 @@
     "bs_time": "19:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3290,6 +3619,7 @@
     "bs_time": "19:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3300,6 +3630,7 @@
     "bs_time": "19:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3310,6 +3641,7 @@
     "bs_time": "19:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3320,6 +3652,7 @@
     "bs_time": "19:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3330,6 +3663,7 @@
     "bs_time": "19:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3340,6 +3674,7 @@
     "bs_time": "19:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3350,6 +3685,7 @@
     "bs_time": "19:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Période scolaire",
@@ -3360,6 +3696,7 @@
     "bs_time": "19:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3370,6 +3707,7 @@
     "bs_time": "6:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3380,6 +3718,7 @@
     "bs_time": "6:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3390,6 +3729,7 @@
     "bs_time": "6:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3400,6 +3740,7 @@
     "bs_time": "6:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3410,6 +3751,7 @@
     "bs_time": "6:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3420,6 +3762,7 @@
     "bs_time": "6:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3430,6 +3773,7 @@
     "bs_time": "6:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3440,6 +3784,7 @@
     "bs_time": "6:34"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3450,6 +3795,7 @@
     "bs_time": "6:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3460,6 +3806,7 @@
     "bs_time": "6:39"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3470,6 +3817,7 @@
     "bs_time": "6:46"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3480,6 +3828,7 @@
     "bs_time": "6:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3490,6 +3839,7 @@
     "bs_time": "7:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3500,6 +3850,7 @@
     "bs_time": "7:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3510,6 +3861,7 @@
     "bs_time": "7:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3520,6 +3872,7 @@
     "bs_time": "7:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3530,6 +3883,7 @@
     "bs_time": "7:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3540,6 +3894,7 @@
     "bs_time": "7:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3550,6 +3905,7 @@
     "bs_time": "7:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3560,6 +3916,7 @@
     "bs_time": "7:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3570,6 +3927,7 @@
     "bs_time": "7:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3580,6 +3938,7 @@
     "bs_time": "7:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3590,6 +3949,7 @@
     "bs_time": "7:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3600,6 +3960,7 @@
     "bs_time": "8:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3610,6 +3971,7 @@
     "bs_time": "8:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3620,6 +3982,7 @@
     "bs_time": "8:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3630,6 +3993,7 @@
     "bs_time": "8:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3640,6 +4004,7 @@
     "bs_time": "8:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3650,6 +4015,7 @@
     "bs_time": "8:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3660,6 +4026,7 @@
     "bs_time": "8:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3670,6 +4037,7 @@
     "bs_time": "8:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3680,6 +4048,7 @@
     "bs_time": "8:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3690,6 +4059,7 @@
     "bs_time": "8:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3700,6 +4070,7 @@
     "bs_time": "8:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3710,6 +4081,7 @@
     "bs_time": "8:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3720,6 +4092,7 @@
     "bs_time": "9:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3730,6 +4103,7 @@
     "bs_time": "9:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3740,6 +4114,7 @@
     "bs_time": "9:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3750,6 +4125,7 @@
     "bs_time": "9:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3760,6 +4136,7 @@
     "bs_time": "9:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3770,6 +4147,7 @@
     "bs_time": "9:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3780,6 +4158,7 @@
     "bs_time": "9:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3790,6 +4169,7 @@
     "bs_time": "9:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3800,6 +4180,7 @@
     "bs_time": "9:34"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3810,6 +4191,7 @@
     "bs_time": "9:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3820,6 +4202,7 @@
     "bs_time": "9:39"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3830,6 +4213,7 @@
     "bs_time": "9:46"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3840,6 +4224,7 @@
     "bs_time": "9:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3850,6 +4235,7 @@
     "bs_time": "10:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3860,6 +4246,7 @@
     "bs_time": "10:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3870,6 +4257,7 @@
     "bs_time": "10:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3880,6 +4268,7 @@
     "bs_time": "10:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3890,6 +4279,7 @@
     "bs_time": "10:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3900,6 +4290,7 @@
     "bs_time": "10:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3910,6 +4301,7 @@
     "bs_time": "10:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3920,6 +4312,7 @@
     "bs_time": "10:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3930,6 +4323,7 @@
     "bs_time": "10:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3940,6 +4334,7 @@
     "bs_time": "10:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3950,6 +4345,7 @@
     "bs_time": "10:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3960,6 +4356,7 @@
     "bs_time": "11:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3970,6 +4367,7 @@
     "bs_time": "11:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3980,6 +4378,7 @@
     "bs_time": "11:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -3990,6 +4389,7 @@
     "bs_time": "11:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4000,6 +4400,7 @@
     "bs_time": "11:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4010,6 +4411,7 @@
     "bs_time": "11:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4020,6 +4422,7 @@
     "bs_time": "11:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4030,6 +4433,7 @@
     "bs_time": "11:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4040,6 +4444,7 @@
     "bs_time": "11:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4050,6 +4455,7 @@
     "bs_time": "11:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4060,6 +4466,7 @@
     "bs_time": "11:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4070,6 +4477,7 @@
     "bs_time": "11:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4080,6 +4488,7 @@
     "bs_time": "12:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4090,6 +4499,7 @@
     "bs_time": "12:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4100,6 +4510,7 @@
     "bs_time": "12:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4110,6 +4521,7 @@
     "bs_time": "12:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4120,6 +4532,7 @@
     "bs_time": "12:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4130,6 +4543,7 @@
     "bs_time": "12:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4140,6 +4554,7 @@
     "bs_time": "12:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4150,6 +4565,7 @@
     "bs_time": "12:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4160,6 +4576,7 @@
     "bs_time": "12:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4170,6 +4587,7 @@
     "bs_time": "12:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4180,6 +4598,7 @@
     "bs_time": "12:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4190,6 +4609,7 @@
     "bs_time": "12:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4200,6 +4620,7 @@
     "bs_time": "13:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4210,6 +4631,7 @@
     "bs_time": "13:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4220,6 +4642,7 @@
     "bs_time": "13:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4230,6 +4653,7 @@
     "bs_time": "13:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4240,6 +4664,7 @@
     "bs_time": "13:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4250,6 +4675,7 @@
     "bs_time": "13:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4260,6 +4686,7 @@
     "bs_time": "13:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4270,6 +4697,7 @@
     "bs_time": "13:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4280,6 +4708,7 @@
     "bs_time": "13:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4290,6 +4719,7 @@
     "bs_time": "13:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4300,6 +4730,7 @@
     "bs_time": "13:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4310,6 +4741,7 @@
     "bs_time": "13:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4320,6 +4752,7 @@
     "bs_time": "14:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4330,6 +4763,7 @@
     "bs_time": "14:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4340,6 +4774,7 @@
     "bs_time": "14:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4350,6 +4785,7 @@
     "bs_time": "14:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4360,6 +4796,7 @@
     "bs_time": "14:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4370,6 +4807,7 @@
     "bs_time": "14:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4380,6 +4818,7 @@
     "bs_time": "14:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4390,6 +4829,7 @@
     "bs_time": "14:29"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4400,6 +4840,7 @@
     "bs_time": "14:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4410,6 +4851,7 @@
     "bs_time": "14:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4420,6 +4862,7 @@
     "bs_time": "14:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4430,6 +4873,7 @@
     "bs_time": "14:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4440,6 +4884,7 @@
     "bs_time": "15:00"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4450,6 +4895,7 @@
     "bs_time": "15:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4460,6 +4906,7 @@
     "bs_time": "15:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4470,6 +4917,7 @@
     "bs_time": "15:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4480,6 +4928,7 @@
     "bs_time": "15:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4490,6 +4939,7 @@
     "bs_time": "15:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4500,6 +4950,7 @@
     "bs_time": "15:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4510,6 +4961,7 @@
     "bs_time": "15:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4520,6 +4972,7 @@
     "bs_time": "15:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4530,6 +4983,7 @@
     "bs_time": "15:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4540,6 +4994,7 @@
     "bs_time": "15:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4550,6 +5005,7 @@
     "bs_time": "15:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4560,6 +5016,7 @@
     "bs_time": "16:05"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4570,6 +5027,7 @@
     "bs_time": "16:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4580,6 +5038,7 @@
     "bs_time": "16:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4590,6 +5049,7 @@
     "bs_time": "16:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4600,6 +5060,7 @@
     "bs_time": "16:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4610,6 +5071,7 @@
     "bs_time": "16:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4620,6 +5082,7 @@
     "bs_time": "16:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4630,6 +5093,7 @@
     "bs_time": "16:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4640,6 +5104,7 @@
     "bs_time": "16:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4650,6 +5115,7 @@
     "bs_time": "16:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4660,6 +5126,7 @@
     "bs_time": "16:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4670,6 +5137,7 @@
     "bs_time": "16:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4680,6 +5148,7 @@
     "bs_time": "17:05"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4690,6 +5159,7 @@
     "bs_time": "17:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4700,6 +5170,7 @@
     "bs_time": "17:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4710,6 +5181,7 @@
     "bs_time": "17:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4720,6 +5192,7 @@
     "bs_time": "17:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4730,6 +5203,7 @@
     "bs_time": "17:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4740,6 +5214,7 @@
     "bs_time": "17:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4750,6 +5225,7 @@
     "bs_time": "17:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4760,6 +5236,7 @@
     "bs_time": "17:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4770,6 +5247,7 @@
     "bs_time": "17:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4780,6 +5258,7 @@
     "bs_time": "17:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4790,6 +5269,7 @@
     "bs_time": "17:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4800,6 +5280,7 @@
     "bs_time": "18:05"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4810,6 +5291,7 @@
     "bs_time": "18:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4820,6 +5302,7 @@
     "bs_time": "18:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4830,6 +5313,7 @@
     "bs_time": "18:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4840,6 +5324,7 @@
     "bs_time": "18:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4850,6 +5335,7 @@
     "bs_time": "18:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4860,6 +5346,7 @@
     "bs_time": "18:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4870,6 +5357,7 @@
     "bs_time": "18:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4880,6 +5368,7 @@
     "bs_time": "18:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4890,6 +5379,7 @@
     "bs_time": "18:39"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4900,6 +5390,7 @@
     "bs_time": "18:42"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4910,6 +5401,7 @@
     "bs_time": "18:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4920,6 +5412,7 @@
     "bs_time": "19:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4930,6 +5423,7 @@
     "bs_time": "19:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4940,6 +5434,7 @@
     "bs_time": "19:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4950,6 +5445,7 @@
     "bs_time": "19:12"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4960,6 +5456,7 @@
     "bs_time": "19:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4970,6 +5467,7 @@
     "bs_time": "19:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4980,6 +5478,7 @@
     "bs_time": "19:24"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -4990,6 +5489,7 @@
     "bs_time": "19:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5000,6 +5500,7 @@
     "bs_time": "19:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5010,6 +5511,7 @@
     "bs_time": "19:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5020,6 +5522,7 @@
     "bs_time": "19:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5030,6 +5533,7 @@
     "bs_time": "19:47"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5040,6 +5544,7 @@
     "bs_time": "19:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5050,6 +5555,7 @@
     "bs_time": "6:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5060,6 +5566,7 @@
     "bs_time": "6:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5070,6 +5577,7 @@
     "bs_time": "6:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5080,6 +5588,7 @@
     "bs_time": "6:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5090,6 +5599,7 @@
     "bs_time": "6:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5100,6 +5610,7 @@
     "bs_time": "6:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5110,6 +5621,7 @@
     "bs_time": "6:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5120,6 +5632,7 @@
     "bs_time": "6:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5130,6 +5643,7 @@
     "bs_time": "6:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5140,6 +5654,7 @@
     "bs_time": "6:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5150,6 +5665,7 @@
     "bs_time": "6:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5160,6 +5676,7 @@
     "bs_time": "6:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5170,6 +5687,7 @@
     "bs_time": "6:55"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5180,6 +5698,7 @@
     "bs_time": "7:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5190,6 +5709,7 @@
     "bs_time": "7:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5200,6 +5720,7 @@
     "bs_time": "7:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5210,6 +5731,7 @@
     "bs_time": "7:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5220,6 +5742,7 @@
     "bs_time": "7:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5230,6 +5753,7 @@
     "bs_time": "7:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5240,6 +5764,7 @@
     "bs_time": "7:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5250,6 +5775,7 @@
     "bs_time": "7:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5260,6 +5786,7 @@
     "bs_time": "7:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5270,6 +5797,7 @@
     "bs_time": "7:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5280,6 +5808,7 @@
     "bs_time": "7:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5290,6 +5819,7 @@
     "bs_time": "7:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5300,6 +5830,7 @@
     "bs_time": "8:10"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5310,6 +5841,7 @@
     "bs_time": "8:17"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5320,6 +5852,7 @@
     "bs_time": "8:20"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5330,6 +5863,7 @@
     "bs_time": "8:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5340,6 +5874,7 @@
     "bs_time": "8:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5350,6 +5885,7 @@
     "bs_time": "8:31"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5360,6 +5896,7 @@
     "bs_time": "8:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5370,6 +5907,7 @@
     "bs_time": "8:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5380,6 +5918,7 @@
     "bs_time": "8:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5390,6 +5929,7 @@
     "bs_time": "8:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5400,6 +5940,7 @@
     "bs_time": "8:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5410,6 +5951,7 @@
     "bs_time": "9:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5420,6 +5962,7 @@
     "bs_time": "9:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5430,6 +5973,7 @@
     "bs_time": "9:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5440,6 +5984,7 @@
     "bs_time": "9:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5450,6 +5995,7 @@
     "bs_time": "9:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5460,6 +6006,7 @@
     "bs_time": "9:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5470,6 +6017,7 @@
     "bs_time": "9:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5480,6 +6028,7 @@
     "bs_time": "9:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5490,6 +6039,7 @@
     "bs_time": "9:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5500,6 +6050,7 @@
     "bs_time": "9:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5510,6 +6061,7 @@
     "bs_time": "9:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5520,6 +6072,7 @@
     "bs_time": "9:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5530,6 +6083,7 @@
     "bs_time": "10:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5540,6 +6094,7 @@
     "bs_time": "10:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5550,6 +6105,7 @@
     "bs_time": "10:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5560,6 +6116,7 @@
     "bs_time": "10:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5570,6 +6127,7 @@
     "bs_time": "10:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5580,6 +6138,7 @@
     "bs_time": "10:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5590,6 +6149,7 @@
     "bs_time": "10:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5600,6 +6160,7 @@
     "bs_time": "10:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5610,6 +6171,7 @@
     "bs_time": "10:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5620,6 +6182,7 @@
     "bs_time": "10:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5630,6 +6193,7 @@
     "bs_time": "10:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5640,6 +6204,7 @@
     "bs_time": "10:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5650,6 +6215,7 @@
     "bs_time": "11:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5660,6 +6226,7 @@
     "bs_time": "11:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5670,6 +6237,7 @@
     "bs_time": "11:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5680,6 +6248,7 @@
     "bs_time": "11:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5690,6 +6259,7 @@
     "bs_time": "11:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5700,6 +6270,7 @@
     "bs_time": "11:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5710,6 +6281,7 @@
     "bs_time": "11:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5720,6 +6292,7 @@
     "bs_time": "11:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5730,6 +6303,7 @@
     "bs_time": "11:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5740,6 +6314,7 @@
     "bs_time": "11:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5750,6 +6325,7 @@
     "bs_time": "11:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5760,6 +6336,7 @@
     "bs_time": "11:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5770,6 +6347,7 @@
     "bs_time": "12:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5780,6 +6358,7 @@
     "bs_time": "12:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5790,6 +6369,7 @@
     "bs_time": "12:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5800,6 +6380,7 @@
     "bs_time": "12:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5810,6 +6391,7 @@
     "bs_time": "12:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5820,6 +6402,7 @@
     "bs_time": "12:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5830,6 +6413,7 @@
     "bs_time": "12:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5840,6 +6424,7 @@
     "bs_time": "12:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5850,6 +6435,7 @@
     "bs_time": "12:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5860,6 +6446,7 @@
     "bs_time": "12:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5870,6 +6457,7 @@
     "bs_time": "12:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5880,6 +6468,7 @@
     "bs_time": "12:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5890,6 +6479,7 @@
     "bs_time": "13:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5900,6 +6490,7 @@
     "bs_time": "13:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5910,6 +6501,7 @@
     "bs_time": "13:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5920,6 +6512,7 @@
     "bs_time": "13:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5930,6 +6523,7 @@
     "bs_time": "13:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5940,6 +6534,7 @@
     "bs_time": "13:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5950,6 +6545,7 @@
     "bs_time": "13:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5960,6 +6556,7 @@
     "bs_time": "13:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5970,6 +6567,7 @@
     "bs_time": "13:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5980,6 +6578,7 @@
     "bs_time": "13:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -5990,6 +6589,7 @@
     "bs_time": "13:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6000,6 +6600,7 @@
     "bs_time": "13:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6010,6 +6611,7 @@
     "bs_time": "14:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6020,6 +6622,7 @@
     "bs_time": "14:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6030,6 +6633,7 @@
     "bs_time": "14:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6040,6 +6644,7 @@
     "bs_time": "14:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6050,6 +6655,7 @@
     "bs_time": "14:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6060,6 +6666,7 @@
     "bs_time": "14:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6070,6 +6677,7 @@
     "bs_time": "14:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6080,6 +6688,7 @@
     "bs_time": "14:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6090,6 +6699,7 @@
     "bs_time": "14:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6100,6 +6710,7 @@
     "bs_time": "14:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6110,6 +6721,7 @@
     "bs_time": "14:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6120,6 +6732,7 @@
     "bs_time": "14:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6130,6 +6743,7 @@
     "bs_time": "14:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6140,6 +6754,7 @@
     "bs_time": "15:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6150,6 +6765,7 @@
     "bs_time": "15:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6160,6 +6776,7 @@
     "bs_time": "15:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6170,6 +6787,7 @@
     "bs_time": "15:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6180,6 +6798,7 @@
     "bs_time": "15:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6190,6 +6809,7 @@
     "bs_time": "15:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6200,6 +6820,7 @@
     "bs_time": "15:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6210,6 +6831,7 @@
     "bs_time": "15:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6220,6 +6842,7 @@
     "bs_time": "15:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6230,6 +6853,7 @@
     "bs_time": "15:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6240,6 +6864,7 @@
     "bs_time": "15:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6250,6 +6875,7 @@
     "bs_time": "15:55"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6260,6 +6886,7 @@
     "bs_time": "16:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6270,6 +6897,7 @@
     "bs_time": "16:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6280,6 +6908,7 @@
     "bs_time": "16:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6290,6 +6919,7 @@
     "bs_time": "16:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6300,6 +6930,7 @@
     "bs_time": "16:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6310,6 +6941,7 @@
     "bs_time": "16:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6320,6 +6952,7 @@
     "bs_time": "16:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6330,6 +6963,7 @@
     "bs_time": "16:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6340,6 +6974,7 @@
     "bs_time": "16:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6350,6 +6985,7 @@
     "bs_time": "16:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6360,6 +6996,7 @@
     "bs_time": "16:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6370,6 +7007,7 @@
     "bs_time": "16:55"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6380,6 +7018,7 @@
     "bs_time": "17:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6390,6 +7029,7 @@
     "bs_time": "17:18"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6400,6 +7040,7 @@
     "bs_time": "17:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6410,6 +7051,7 @@
     "bs_time": "17:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6420,6 +7062,7 @@
     "bs_time": "17:28"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6430,6 +7073,7 @@
     "bs_time": "17:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6440,6 +7084,7 @@
     "bs_time": "17:37"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6450,6 +7095,7 @@
     "bs_time": "17:43"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6460,6 +7106,7 @@
     "bs_time": "17:48"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6470,6 +7117,7 @@
     "bs_time": "17:50"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6480,6 +7128,7 @@
     "bs_time": "17:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6490,6 +7139,7 @@
     "bs_time": "17:59"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6500,6 +7150,7 @@
     "bs_time": "18:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6510,6 +7161,7 @@
     "bs_time": "18:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6520,6 +7172,7 @@
     "bs_time": "18:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6530,6 +7183,7 @@
     "bs_time": "18:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6540,6 +7194,7 @@
     "bs_time": "18:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6550,6 +7205,7 @@
     "bs_time": "18:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6560,6 +7216,7 @@
     "bs_time": "18:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6570,6 +7227,7 @@
     "bs_time": "18:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6580,6 +7238,7 @@
     "bs_time": "18:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6590,6 +7249,7 @@
     "bs_time": "18:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6600,6 +7260,7 @@
     "bs_time": "18:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6610,6 +7271,7 @@
     "bs_time": "19:01"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6620,6 +7282,7 @@
     "bs_time": "19:16"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6630,6 +7293,7 @@
     "bs_time": "19:22"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6640,6 +7304,7 @@
     "bs_time": "19:25"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6650,6 +7315,7 @@
     "bs_time": "19:27"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6660,6 +7326,7 @@
     "bs_time": "19:32"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6670,6 +7337,7 @@
     "bs_time": "19:36"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6680,6 +7348,7 @@
     "bs_time": "19:41"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6690,6 +7359,7 @@
     "bs_time": "19:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6700,6 +7370,7 @@
     "bs_time": "19:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6710,6 +7381,7 @@
     "bs_time": "19:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Vacances scolaires",
@@ -6720,6 +7392,7 @@
     "bs_time": "19:53"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6730,6 +7403,7 @@
     "bs_time": "7:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6740,6 +7414,7 @@
     "bs_time": "7:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6750,6 +7425,7 @@
     "bs_time": "7:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6760,6 +7436,7 @@
     "bs_time": "7:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6770,6 +7447,7 @@
     "bs_time": "7:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6780,6 +7458,7 @@
     "bs_time": "7:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6790,6 +7469,7 @@
     "bs_time": "7:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6800,6 +7480,7 @@
     "bs_time": "8:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6810,6 +7491,7 @@
     "bs_time": "8:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6820,6 +7502,7 @@
     "bs_time": "8:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6830,6 +7513,7 @@
     "bs_time": "8:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6840,6 +7524,7 @@
     "bs_time": "8:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6850,6 +7535,7 @@
     "bs_time": "9:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6860,6 +7546,7 @@
     "bs_time": "9:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6870,6 +7557,7 @@
     "bs_time": "9:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6880,6 +7568,7 @@
     "bs_time": "9:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6890,6 +7579,7 @@
     "bs_time": "9:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6900,6 +7590,7 @@
     "bs_time": "9:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6910,6 +7601,7 @@
     "bs_time": "9:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6920,6 +7612,7 @@
     "bs_time": "10:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6930,6 +7623,7 @@
     "bs_time": "10:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6940,6 +7634,7 @@
     "bs_time": "10:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6950,6 +7645,7 @@
     "bs_time": "10:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6960,6 +7656,7 @@
     "bs_time": "10:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6970,6 +7667,7 @@
     "bs_time": "11:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6980,6 +7678,7 @@
     "bs_time": "11:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -6990,6 +7689,7 @@
     "bs_time": "11:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7000,6 +7700,7 @@
     "bs_time": "11:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7010,6 +7711,7 @@
     "bs_time": "11:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7020,6 +7722,7 @@
     "bs_time": "11:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7030,6 +7733,7 @@
     "bs_time": "11:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7040,6 +7744,7 @@
     "bs_time": "12:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7050,6 +7755,7 @@
     "bs_time": "12:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7060,6 +7766,7 @@
     "bs_time": "12:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7070,6 +7777,7 @@
     "bs_time": "12:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7080,6 +7788,7 @@
     "bs_time": "12:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7090,6 +7799,7 @@
     "bs_time": "13:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7100,6 +7810,7 @@
     "bs_time": "13:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7110,6 +7821,7 @@
     "bs_time": "13:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7120,6 +7832,7 @@
     "bs_time": "13:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7130,6 +7843,7 @@
     "bs_time": "13:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7140,6 +7854,7 @@
     "bs_time": "13:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7150,6 +7865,7 @@
     "bs_time": "13:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7160,6 +7876,7 @@
     "bs_time": "14:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7170,6 +7887,7 @@
     "bs_time": "14:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7180,6 +7898,7 @@
     "bs_time": "14:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7190,6 +7909,7 @@
     "bs_time": "14:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7200,6 +7920,7 @@
     "bs_time": "14:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7210,6 +7931,7 @@
     "bs_time": "15:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7220,6 +7942,7 @@
     "bs_time": "15:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7230,6 +7953,7 @@
     "bs_time": "15:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7240,6 +7964,7 @@
     "bs_time": "15:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7250,6 +7975,7 @@
     "bs_time": "15:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7260,6 +7986,7 @@
     "bs_time": "15:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7270,6 +7997,7 @@
     "bs_time": "15:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7280,6 +8008,7 @@
     "bs_time": "16:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7290,6 +8019,7 @@
     "bs_time": "16:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7300,6 +8030,7 @@
     "bs_time": "16:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7310,6 +8041,7 @@
     "bs_time": "16:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7320,6 +8052,7 @@
     "bs_time": "16:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7330,6 +8063,7 @@
     "bs_time": "17:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7340,6 +8074,7 @@
     "bs_time": "17:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7350,6 +8085,7 @@
     "bs_time": "17:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7360,6 +8096,7 @@
     "bs_time": "17:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7370,6 +8107,7 @@
     "bs_time": "17:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7380,6 +8118,7 @@
     "bs_time": "17:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7390,6 +8129,7 @@
     "bs_time": "17:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7400,6 +8140,7 @@
     "bs_time": "18:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7410,6 +8151,7 @@
     "bs_time": "18:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7420,6 +8162,7 @@
     "bs_time": "18:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7430,6 +8173,7 @@
     "bs_time": "18:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7440,6 +8184,7 @@
     "bs_time": "18:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7450,6 +8195,7 @@
     "bs_time": "19:35"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7460,6 +8206,7 @@
     "bs_time": "19:38"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7470,6 +8217,7 @@
     "bs_time": "19:40"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7480,6 +8228,7 @@
     "bs_time": "19:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7490,6 +8239,7 @@
     "bs_time": "19:49"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7500,6 +8250,7 @@
     "bs_time": "19:52"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7510,6 +8261,7 @@
     "bs_time": "19:56"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7520,6 +8272,7 @@
     "bs_time": "20:02"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7530,6 +8283,7 @@
     "bs_time": "20:04"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7540,6 +8294,7 @@
     "bs_time": "20:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7550,6 +8305,7 @@
     "bs_time": "20:14"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7560,6 +8316,7 @@
     "bs_time": "20:26"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7570,6 +8327,7 @@
     "bs_time": "6:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7580,6 +8338,7 @@
     "bs_time": "6:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7590,6 +8349,7 @@
     "bs_time": "6:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7600,6 +8360,7 @@
     "bs_time": "6:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7610,6 +8371,7 @@
     "bs_time": "6:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7620,6 +8382,7 @@
     "bs_time": "7:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7630,6 +8393,7 @@
     "bs_time": "7:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7640,6 +8404,7 @@
     "bs_time": "7:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7650,6 +8415,7 @@
     "bs_time": "7:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7660,6 +8426,7 @@
     "bs_time": "7:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7670,6 +8437,7 @@
     "bs_time": "7:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7680,6 +8448,7 @@
     "bs_time": "7:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7690,6 +8459,7 @@
     "bs_time": "8:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7700,6 +8470,7 @@
     "bs_time": "8:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7710,6 +8481,7 @@
     "bs_time": "8:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7720,6 +8492,7 @@
     "bs_time": "8:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7730,6 +8503,7 @@
     "bs_time": "8:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7740,6 +8514,7 @@
     "bs_time": "9:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7750,6 +8525,7 @@
     "bs_time": "9:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7760,6 +8536,7 @@
     "bs_time": "9:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7770,6 +8547,7 @@
     "bs_time": "9:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7780,6 +8558,7 @@
     "bs_time": "9:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7790,6 +8569,7 @@
     "bs_time": "9:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7800,6 +8580,7 @@
     "bs_time": "9:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7810,6 +8591,7 @@
     "bs_time": "10:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7820,6 +8602,7 @@
     "bs_time": "10:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7830,6 +8613,7 @@
     "bs_time": "10:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7840,6 +8624,7 @@
     "bs_time": "10:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7850,6 +8635,7 @@
     "bs_time": "10:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7860,6 +8646,7 @@
     "bs_time": "11:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7870,6 +8657,7 @@
     "bs_time": "11:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7880,6 +8668,7 @@
     "bs_time": "11:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7890,6 +8679,7 @@
     "bs_time": "11:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7900,6 +8690,7 @@
     "bs_time": "11:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7910,6 +8701,7 @@
     "bs_time": "11:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7920,6 +8712,7 @@
     "bs_time": "11:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7930,6 +8723,7 @@
     "bs_time": "12:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7940,6 +8734,7 @@
     "bs_time": "12:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7950,6 +8745,7 @@
     "bs_time": "12:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7960,6 +8756,7 @@
     "bs_time": "12:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7970,6 +8767,7 @@
     "bs_time": "12:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7980,6 +8778,7 @@
     "bs_time": "13:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -7990,6 +8789,7 @@
     "bs_time": "13:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8000,6 +8800,7 @@
     "bs_time": "13:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8010,6 +8811,7 @@
     "bs_time": "13:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8020,6 +8822,7 @@
     "bs_time": "13:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8030,6 +8833,7 @@
     "bs_time": "13:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8040,6 +8844,7 @@
     "bs_time": "13:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8050,6 +8855,7 @@
     "bs_time": "14:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8060,6 +8866,7 @@
     "bs_time": "14:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8070,6 +8877,7 @@
     "bs_time": "14:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8080,6 +8888,7 @@
     "bs_time": "14:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8090,6 +8899,7 @@
     "bs_time": "14:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8100,6 +8910,7 @@
     "bs_time": "15:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8110,6 +8921,7 @@
     "bs_time": "15:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8120,6 +8932,7 @@
     "bs_time": "15:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8130,6 +8943,7 @@
     "bs_time": "15:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8140,6 +8954,7 @@
     "bs_time": "15:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8150,6 +8965,7 @@
     "bs_time": "15:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8160,6 +8976,7 @@
     "bs_time": "15:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8170,6 +8987,7 @@
     "bs_time": "16:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8180,6 +8998,7 @@
     "bs_time": "16:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8190,6 +9009,7 @@
     "bs_time": "16:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8200,6 +9020,7 @@
     "bs_time": "16:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8210,6 +9031,7 @@
     "bs_time": "16:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8220,6 +9042,7 @@
     "bs_time": "17:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8230,6 +9053,7 @@
     "bs_time": "17:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8240,6 +9064,7 @@
     "bs_time": "17:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8250,6 +9075,7 @@
     "bs_time": "17:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8260,6 +9086,7 @@
     "bs_time": "17:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8270,6 +9097,7 @@
     "bs_time": "17:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8280,6 +9108,7 @@
     "bs_time": "17:23"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8290,6 +9119,7 @@
     "bs_time": "18:30"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8300,6 +9130,7 @@
     "bs_time": "18:45"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8310,6 +9141,7 @@
     "bs_time": "18:51"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8320,6 +9152,7 @@
     "bs_time": "18:54"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8330,6 +9163,7 @@
     "bs_time": "18:58"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8340,6 +9174,7 @@
     "bs_time": "19:03"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8350,6 +9185,7 @@
     "bs_time": "19:07"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8360,6 +9196,7 @@
     "bs_time": "19:11"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8370,6 +9207,7 @@
     "bs_time": "19:15"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8380,6 +9218,7 @@
     "bs_time": "19:19"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
@@ -8390,6 +9229,7 @@
     "bs_time": "19:21"
   },
   {
+    "bl_system": "AFTER",
     "bl_name": "E83",
     "bl_title": "Gembloux - Charleroi",
     "bl_variant": "Toutes périodes",
