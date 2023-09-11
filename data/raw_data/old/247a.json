@@ -1,0 +1,504 @@
+[
+  {
+    "b_name": "247a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Sombreffe",
+    "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
+    "bl_raw_data": [
+      [
+        "Jour(s) de circulation",
+        "12345",
+        "12345",
+        "****5",
+        "**3**",
+        "12*45",
+        "****5",
+        "12*45",
+        "12345"
+      ],
+      [
+        "Circulation exceptionnelle",
+        "",
+        "",
+        "",
+        "",
+        "EXAMEN",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Renvoi en bas de page",
+        "",
+        "",
+        "",
+        "",
+        "a",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gembloux (Quatre Coins)",
+        "",
+        "",
+        "",
+        "12:26",
+        "12:26",
+        "12:26",
+        "16:26",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "",
+        "",
+        "",
+        "12:31",
+        "12:31",
+        "12:31",
+        "16:31",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "6:24",
+        "7:11",
+        "9:40",
+        "12:40",
+        "12:40",
+        "12:40",
+        "16:40",
+        "18:10"
+      ],
+      [
+        "Grand-Manil (Chaussée de Charleroi)",
+        "6:29",
+        "7:16",
+        "9:45",
+        "12:45",
+        "12:45",
+        "12:45",
+        "16:45",
+        "18:15"
+      ],
+      [
+        "Corroy-le-Château (Cité Marvel)",
+        "6:34",
+        "7:23",
+        "9:52",
+        "12:52",
+        "12:52",
+        "12:52",
+        "16:52",
+        "18:20"
+      ],
+      [
+        "Corroy-le-Château (Place communale)",
+        "6:35",
+        "7:24",
+        "9:53",
+        "12:53",
+        "12:53",
+        "12:53",
+        "16:53",
+        "18:21"
+      ],
+      [
+        "Tongrinne (Docq)",
+        "6:42",
+        "7:31",
+        "",
+        "13:00",
+        "13:00",
+        "",
+        "17:03",
+        "18:28"
+      ],
+      [
+        "Sombreffe (Place du Stain)",
+        "6:45",
+        "7:34",
+        "",
+        "13:04",
+        "13:04",
+        "",
+        "17:07",
+        "18:31"
+      ],
+      [
+        "Numéro de voyage",
+        "202",
+        "204",
+        "206",
+        "208",
+        "208",
+        "210",
+        "212",
+        "214"
+      ]
+    ]
+  },
+  {
+    "b_name": "247a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "247a - SCOLAIRE - Vers Gembloux",
+    "bl_raw_data": [
+      [
+        "Jour(s) de circulation",
+        "12345",
+        "12345",
+        "12345",
+        "****5",
+        "****5",
+        "**3**",
+        "12*45",
+        "12*45",
+        "12345"
+      ],
+      [
+        "Circulation exceptionnelle",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "EXAMEN",
+        "",
+        ""
+      ],
+      [
+        "Renvoi en bas de page",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "a",
+        "",
+        ""
+      ],
+      [
+        "Sombreffe (Place du Stain)",
+        "6:45",
+        "7:34",
+        "",
+        "",
+        "",
+        "13:04",
+        "13:04",
+        "17:07",
+        "18:31"
+      ],
+      [
+        "Sombreffe (Pont-au-Rieu)",
+        "6:49",
+        "7:38",
+        "",
+        "",
+        "",
+        "13:07",
+        "13:07",
+        "17:10",
+        "18:34"
+      ],
+      [
+        "Sombreffe (Place du Stain)",
+        "6:54",
+        "7:43",
+        "7:43",
+        "",
+        "",
+        "13:11",
+        "13:11",
+        "17:14",
+        "18:38"
+      ],
+      [
+        "Tongrinne (Docq)",
+        "6:58",
+        "7:48",
+        "7:48",
+        "",
+        "",
+        "13:15",
+        "13:15",
+        "17:18",
+        ""
+      ],
+      [
+        "Corroy-le-Château (Cité Marvel)",
+        "7:02",
+        "7:52",
+        "7:52",
+        "",
+        "",
+        "13:19",
+        "13:19",
+        "17:22",
+        ""
+      ],
+      [
+        "Corroy-le-Château (Place communale)",
+        "7:04",
+        "7:54",
+        "7:54",
+        "9:53",
+        "12:53",
+        "13:21",
+        "13:21",
+        "17:24",
+        ""
+      ],
+      [
+        "Grand-Manil (Chaussée de Charleroi)",
+        "7:11",
+        "8:01",
+        "8:01",
+        "9:59",
+        "12:59",
+        "13:27",
+        "13:27",
+        "17:30",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "7:18",
+        "8:08",
+        "8:08",
+        "10:04",
+        "13:04",
+        "13:32",
+        "13:32",
+        "17:36",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "",
+        "8:08",
+        "8:08",
+        "10:04",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gembloux (Quatre Coins)",
+        "",
+        "8:13",
+        "8:13",
+        "10:09",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Numéro de voyage",
+        "201",
+        "203",
+        "205",
+        "207",
+        "209",
+        "211",
+        "211",
+        "213",
+        "215"
+      ]
+    ]
+  },
+  {
+    "b_name": "247a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Sombreffe",
+    "bl_title": "247a - VACANCES - Vers Sombreffe",
+    "bl_raw_data": [
+      [
+        "Jour(s) de circulation",
+        "****5",
+        "****5",
+        "12345"
+      ],
+      [
+        "Circulation exceptionnelle",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Renvoi en bas de page",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gembloux (Quatre Coins)",
+        "",
+        "12:35",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "",
+        "12:40",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "9:40",
+        "12:40",
+        "18:10"
+      ],
+      [
+        "Grand-Manil (Chaussée de Charleroi)",
+        "9:44",
+        "12:44",
+        "18:14"
+      ],
+      [
+        "Corroy-le-Château (Cité Marvel)",
+        "9:51",
+        "12:51",
+        "18:19"
+      ],
+      [
+        "Corroy-le-Château (Place communale)",
+        "9:52",
+        "12:52",
+        "18:20"
+      ],
+      [
+        "Tongrinne (Docq)",
+        "",
+        "",
+        "18:27"
+      ],
+      [
+        "Sombreffe (Place du Stain)",
+        "",
+        "",
+        "18:30"
+      ],
+      [
+        "Numéro de voyage",
+        "202",
+        "204",
+        "206"
+      ]
+    ]
+  },
+  {
+    "b_name": "247a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "247a - VACANCES - Vers Gembloux",
+    "bl_raw_data": [
+      [
+        "Jour(s) de circulation",
+        "12345",
+        "****5",
+        "****5",
+        "12345"
+      ],
+      [
+        "Circulation exceptionnelle",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Renvoi en bas de page",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Sombreffe (Place du Stain)",
+        "6:52",
+        "",
+        "",
+        "18:30"
+      ],
+      [
+        "Sombreffe (Pont-au-Rieu)",
+        "6:56",
+        "",
+        "",
+        "18:33"
+      ],
+      [
+        "Sombreffe (Place du Stain)",
+        "6:59",
+        "",
+        "",
+        "18:36"
+      ],
+      [
+        "Tongrinne (Docq)",
+        "7:03",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Corroy-le-Château (Cité Marvel)",
+        "7:07",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Corroy-le-Château (Place communale)",
+        "7:09",
+        "9:52",
+        "12:52",
+        ""
+      ],
+      [
+        "Grand-Manil (Chaussée de Charleroi)",
+        "7:15",
+        "9:58",
+        "12:58",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "7:20",
+        "10:03",
+        "13:03",
+        ""
+      ],
+      [
+        "Gembloux (Gare)",
+        "",
+        "10:03",
+        "",
+        ""
+      ],
+      [
+        "Gembloux (Quatre Coins)",
+        "",
+        "10:08",
+        "",
+        ""
+      ],
+      [
+        "Numéro de voyage",
+        "201",
+        "203",
+        "205",
+        "207"
+      ]
+    ]
+  }
+]

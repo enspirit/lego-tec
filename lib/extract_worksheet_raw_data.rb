@@ -16,10 +16,10 @@ def extract_worksheet_data(worksheet)
   end
   split = worksheet.title.split(' - ')
   {
-    b_name: split[0],
-    bl_variant: split[1],
-    bl_direction: split[2],
-    bl_title: worksheet.title,
+    b_name: split[0].strip,
+    bl_variant: split[1].strip,
+    bl_direction: split[2].strip,
+    bl_title: worksheet.title.strip,
     bl_raw_data: raw_data,
   }
 end

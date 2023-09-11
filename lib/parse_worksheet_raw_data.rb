@@ -29,8 +29,8 @@ def extract_timeline(bus_line)
         bus_line.merge({
           bl_num: bl_num,
           bl_days: bl_days,
-          bs_name: line[0],
-          bs_time: line[col_index],
+          bs_name: line[0].strip,
+          bs_time: line[col_index].strip,
         })
       }.compact
     }.flatten
