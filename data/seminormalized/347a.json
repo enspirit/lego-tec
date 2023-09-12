@@ -6,9 +6,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "7:05"
+    "bs_time": 425
   },
   {
     "b_name": "347a",
@@ -17,9 +17,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:10"
+    "bs_time": 430
   },
   {
     "b_name": "347a",
@@ -28,31 +28,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "7:15"
+    "bs_time": 435
   },
   {
     "b_name": "347a",
@@ -61,9 +39,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:18"
+    "bs_time": 438
   },
   {
     "b_name": "347a",
@@ -72,9 +50,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "7:22"
+    "bs_time": 442
   },
   {
     "b_name": "347a",
@@ -83,9 +61,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "7:24"
+    "bs_time": 444
   },
   {
     "b_name": "347a",
@@ -94,9 +72,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "18:43"
+    "bs_time": 1123
   },
   {
     "b_name": "347a",
@@ -105,9 +83,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "18:48"
+    "bs_time": 1128
   },
   {
     "b_name": "347a",
@@ -116,20 +94,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "18:53"
+    "bs_time": 1133
   },
   {
     "b_name": "347a",
@@ -138,31 +105,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "326",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "18:58"
+    "bs_time": 1138
   },
   {
     "b_name": "347a",
@@ -171,9 +116,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "19:00"
+    "bs_time": 1140
   },
   {
     "b_name": "347a",
@@ -182,9 +127,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "19:05"
+    "bs_time": 1145
   },
   {
     "b_name": "347a",
@@ -193,9 +138,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "326",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "19:08"
+    "bs_time": 1148
   },
   {
     "b_name": "347a",
@@ -204,9 +149,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:40"
+    "bs_time": 520
   },
   {
     "b_name": "347a",
@@ -215,9 +160,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "8:45"
+    "bs_time": 525
   },
   {
     "b_name": "347a",
@@ -226,20 +171,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "8:52"
+    "bs_time": 532
   },
   {
     "b_name": "347a",
@@ -248,31 +182,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "8:57"
+    "bs_time": 537
   },
   {
     "b_name": "347a",
@@ -281,9 +193,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "8:59"
+    "bs_time": 539
   },
   {
     "b_name": "347a",
@@ -292,9 +204,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "9:04"
+    "bs_time": 544
   },
   {
     "b_name": "347a",
@@ -303,9 +215,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "9:07"
+    "bs_time": 547
   },
   {
     "b_name": "347a",
@@ -314,9 +226,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "18:43"
+    "bs_time": 1123
   },
   {
     "b_name": "347a",
@@ -325,9 +237,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "18:48"
+    "bs_time": 1128
   },
   {
     "b_name": "347a",
@@ -336,20 +248,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "18:53"
+    "bs_time": 1133
   },
   {
     "b_name": "347a",
@@ -358,31 +259,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "324",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "18:58"
+    "bs_time": 1138
   },
   {
     "b_name": "347a",
@@ -391,9 +270,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "19:00"
+    "bs_time": 1140
   },
   {
     "b_name": "347a",
@@ -402,31 +281,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
-    "bs_name": "Onoz (Village)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "324",
-    "bl_days": "**3**",
-    "bs_name": "Onoz (Gare)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "19:03"
+    "bs_time": 1143
   },
   {
     "b_name": "347a",
@@ -435,9 +292,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Boignée (Place)",
-    "bs_time": "19:08"
+    "bs_time": 1148
   },
   {
     "b_name": "347a",
@@ -446,9 +303,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "19:11"
+    "bs_time": 1151
   },
   {
     "b_name": "347a",
@@ -457,9 +314,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "19:14"
+    "bs_time": 1154
   },
   {
     "b_name": "347a",
@@ -468,9 +325,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "324",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "19:17"
+    "bs_time": 1157
   },
   {
     "b_name": "347a",
@@ -479,9 +336,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:30"
+    "bs_time": 750
   },
   {
     "b_name": "347a",
@@ -490,9 +347,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:35"
+    "bs_time": 755
   },
   {
     "b_name": "347a",
@@ -501,9 +358,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
+    "bs_time": 760
   },
   {
     "b_name": "347a",
@@ -512,9 +369,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:45"
+    "bs_time": 765
   },
   {
     "b_name": "347a",
@@ -523,31 +380,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "306",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "12:50"
+    "bs_time": 770
   },
   {
     "b_name": "347a",
@@ -556,9 +391,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "12:53"
+    "bs_time": 773
   },
   {
     "b_name": "347a",
@@ -567,9 +402,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "12:57"
+    "bs_time": 777
   },
   {
     "b_name": "347a",
@@ -578,9 +413,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "12:59"
+    "bs_time": 779
   },
   {
     "b_name": "347a",
@@ -589,9 +424,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
+    "bs_time": 760
   },
   {
     "b_name": "347a",
@@ -600,9 +435,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:45"
+    "bs_time": 765
   },
   {
     "b_name": "347a",
@@ -611,20 +446,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "347a",
@@ -633,31 +457,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "308",
-    "bl_days": "12*4*",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "12:57"
+    "bs_time": 777
   },
   {
     "b_name": "347a",
@@ -666,9 +468,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "12:59"
+    "bs_time": 779
   },
   {
     "b_name": "347a",
@@ -677,9 +479,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Onoz (Village)",
-    "bs_time": "13:04"
+    "bs_time": 784
   },
   {
     "b_name": "347a",
@@ -688,9 +490,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12*4*",
+    "bl_days": "12*4***",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "13:07"
+    "bs_time": 787
   },
   {
     "b_name": "347a",
@@ -699,9 +501,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:47"
+    "bs_time": 767
   },
   {
     "b_name": "347a",
@@ -710,9 +512,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "347a",
@@ -721,9 +523,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:57"
+    "bs_time": 777
   },
   {
     "b_name": "347a",
@@ -732,9 +534,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:02"
+    "bs_time": 782
   },
   {
     "b_name": "347a",
@@ -743,9 +545,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "13:09"
+    "bs_time": 789
   },
   {
     "b_name": "347a",
@@ -754,9 +556,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:10"
+    "bs_time": 790
   },
   {
     "b_name": "347a",
@@ -765,20 +567,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:17"
+    "bs_time": 797
   },
   {
     "b_name": "347a",
@@ -787,9 +578,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "13:21"
+    "bs_time": 801
   },
   {
     "b_name": "347a",
@@ -798,9 +589,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:23"
+    "bs_time": 803
   },
   {
     "b_name": "347a",
@@ -809,31 +600,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
-    "bs_name": "Circulation exceptionnelle",
-    "bs_time": "EXAMEN"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12*45",
-    "bs_name": "Renvoi en bas de page",
-    "bs_time": "a"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:47"
+    "bs_time": 767
   },
   {
     "b_name": "347a",
@@ -842,9 +611,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "347a",
@@ -853,9 +622,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:57"
+    "bs_time": 777
   },
   {
     "b_name": "347a",
@@ -864,9 +633,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:02"
+    "bs_time": 782
   },
   {
     "b_name": "347a",
@@ -875,9 +644,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "13:09"
+    "bs_time": 789
   },
   {
     "b_name": "347a",
@@ -886,9 +655,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:10"
+    "bs_time": 790
   },
   {
     "b_name": "347a",
@@ -897,20 +666,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:17"
+    "bs_time": 797
   },
   {
     "b_name": "347a",
@@ -919,9 +677,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "13:21"
+    "bs_time": 801
   },
   {
     "b_name": "347a",
@@ -930,9 +688,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:23"
+    "bs_time": 803
   },
   {
     "b_name": "347a",
@@ -941,9 +699,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:40"
+    "bs_time": 820
   },
   {
     "b_name": "347a",
@@ -952,9 +710,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:45"
+    "bs_time": 825
   },
   {
     "b_name": "347a",
@@ -963,20 +721,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:52"
+    "bs_time": 832
   },
   {
     "b_name": "347a",
@@ -985,31 +732,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "312",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "13:57"
+    "bs_time": 837
   },
   {
     "b_name": "347a",
@@ -1018,9 +743,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:59"
+    "bs_time": 839
   },
   {
     "b_name": "347a",
@@ -1029,9 +754,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "14:04"
+    "bs_time": 844
   },
   {
     "b_name": "347a",
@@ -1040,9 +765,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "312",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "14:07"
+    "bs_time": 847
   },
   {
     "b_name": "347a",
@@ -1051,9 +776,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:40"
+    "bs_time": 820
   },
   {
     "b_name": "347a",
@@ -1062,9 +787,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:45"
+    "bs_time": 825
   },
   {
     "b_name": "347a",
@@ -1073,9 +798,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "13:52"
+    "bs_time": 832
   },
   {
     "b_name": "347a",
@@ -1084,9 +809,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:53"
+    "bs_time": 833
   },
   {
     "b_name": "347a",
@@ -1095,20 +820,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "14:00"
+    "bs_time": 840
   },
   {
     "b_name": "347a",
@@ -1117,9 +831,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "14:04"
+    "bs_time": 844
   },
   {
     "b_name": "347a",
@@ -1128,9 +842,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "14:06"
+    "bs_time": 846
   },
   {
     "b_name": "347a",
@@ -1139,9 +853,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "14:10"
+    "bs_time": 850
   },
   {
     "b_name": "347a",
@@ -1150,9 +864,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "14:15"
+    "bs_time": 855
   },
   {
     "b_name": "347a",
@@ -1161,20 +875,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "14:22"
+    "bs_time": 862
   },
   {
     "b_name": "347a",
@@ -1183,31 +886,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "316",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "14:27"
+    "bs_time": 867
   },
   {
     "b_name": "347a",
@@ -1216,9 +897,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "14:29"
+    "bs_time": 869
   },
   {
     "b_name": "347a",
@@ -1227,9 +908,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Onoz (Village)",
-    "bs_time": "14:34"
+    "bs_time": 874
   },
   {
     "b_name": "347a",
@@ -1238,9 +919,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "316",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "14:37"
+    "bs_time": 877
   },
   {
     "b_name": "347a",
@@ -1249,9 +930,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "318",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:12"
+    "bs_time": 972
   },
   {
     "b_name": "347a",
@@ -1260,9 +941,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "318",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "16:17"
+    "bs_time": 977
   },
   {
     "b_name": "347a",
@@ -1271,31 +952,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "318",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "318",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "318",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "16:22"
+    "bs_time": 982
   },
   {
     "b_name": "347a",
@@ -1304,9 +963,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "318",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "16:27"
+    "bs_time": 987
   },
   {
     "b_name": "347a",
@@ -1315,9 +974,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "318",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "16:31"
+    "bs_time": 991
   },
   {
     "b_name": "347a",
@@ -1326,9 +985,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "318",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "16:33"
+    "bs_time": 993
   },
   {
     "b_name": "347a",
@@ -1337,9 +996,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "16:30"
+    "bs_time": 990
   },
   {
     "b_name": "347a",
@@ -1348,9 +1007,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:35"
+    "bs_time": 995
   },
   {
     "b_name": "347a",
@@ -1359,9 +1018,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:40"
+    "bs_time": 1000
   },
   {
     "b_name": "347a",
@@ -1370,9 +1029,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "16:45"
+    "bs_time": 1005
   },
   {
     "b_name": "347a",
@@ -1381,31 +1040,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "320",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "16:50"
+    "bs_time": 1010
   },
   {
     "b_name": "347a",
@@ -1414,9 +1051,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "16:55"
+    "bs_time": 1015
   },
   {
     "b_name": "347a",
@@ -1425,9 +1062,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "16:59"
+    "bs_time": 1019
   },
   {
     "b_name": "347a",
@@ -1436,9 +1073,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "320",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "17:01"
+    "bs_time": 1021
   },
   {
     "b_name": "347a",
@@ -1447,9 +1084,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
+    "bl_days": "12*4***",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "17:40"
+    "bs_time": 1060
   },
   {
     "b_name": "347a",
@@ -1458,9 +1095,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
+    "bl_days": "12*4***",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "17:45"
+    "bs_time": 1065
   },
   {
     "b_name": "347a",
@@ -1469,20 +1106,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
+    "bl_days": "12*4***",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "17:51"
+    "bs_time": 1071
   },
   {
     "b_name": "347a",
@@ -1491,31 +1117,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
+    "bl_days": "12*4***",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "17:56"
+    "bs_time": 1076
   },
   {
     "b_name": "347a",
@@ -1524,9 +1128,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
+    "bl_days": "12*4***",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "17:58"
+    "bs_time": 1078
   },
   {
     "b_name": "347a",
@@ -1535,9 +1139,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Onoz (Village)",
-    "bs_time": "*"
+    "bl_days": "12*4***",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": 1081
   },
   {
     "b_name": "347a",
@@ -1546,64 +1150,53 @@
     "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "322",
-    "bl_days": "12*4",
+    "bl_days": "12*4***",
+    "bs_name": "Boignée (Place)",
+    "bs_time": 1086
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "322",
+    "bl_days": "12*4***",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": 1089
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "322",
+    "bl_days": "12*4***",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": 1092
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "322",
+    "bl_days": "12*4***",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 1095
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "18:01"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "18:06"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "18:09"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "18:12"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SCOLAIRE - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "322",
-    "bl_days": "12*4",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "18:15"
+    "bs_time": 339
   },
   {
     "b_name": "347a",
@@ -1612,20 +1205,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Onoz (Gare)",
-    "bs_time": "5:39"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "5:41"
+    "bs_time": 341
   },
   {
     "b_name": "347a",
@@ -1634,9 +1216,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "5:46"
+    "bs_time": 346
   },
   {
     "b_name": "347a",
@@ -1645,20 +1227,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "5:49"
+    "bs_time": 349
   },
   {
     "b_name": "347a",
@@ -1667,9 +1238,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "5:54"
+    "bs_time": 354
   },
   {
     "b_name": "347a",
@@ -1678,9 +1249,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "5:58"
+    "bs_time": 358
   },
   {
     "b_name": "347a",
@@ -1689,9 +1260,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "6:02"
+    "bs_time": 362
   },
   {
     "b_name": "347a",
@@ -1700,9 +1271,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:05"
+    "bs_time": 365
   },
   {
     "b_name": "347a",
@@ -1711,20 +1282,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "6:09"
+    "bs_time": 369
   },
   {
     "b_name": "347a",
@@ -1733,9 +1293,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "6:10"
+    "bs_time": 370
   },
   {
     "b_name": "347a",
@@ -1744,9 +1304,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "6:15"
+    "bs_time": 375
   },
   {
     "b_name": "347a",
@@ -1755,9 +1315,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "6:20"
+    "bs_time": 380
   },
   {
     "b_name": "347a",
@@ -1766,9 +1326,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "6:26"
+    "bs_time": 386
   },
   {
     "b_name": "347a",
@@ -1777,9 +1337,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "6:28"
+    "bs_time": 388
   },
   {
     "b_name": "347a",
@@ -1788,9 +1348,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "6:33"
+    "bs_time": 393
   },
   {
     "b_name": "347a",
@@ -1799,20 +1359,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "6:36"
+    "bs_time": 396
   },
   {
     "b_name": "347a",
@@ -1821,9 +1370,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "6:41"
+    "bs_time": 401
   },
   {
     "b_name": "347a",
@@ -1832,9 +1381,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "6:45"
+    "bs_time": 405
   },
   {
     "b_name": "347a",
@@ -1843,9 +1392,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "6:49"
+    "bs_time": 409
   },
   {
     "b_name": "347a",
@@ -1854,9 +1403,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:52"
+    "bs_time": 412
   },
   {
     "b_name": "347a",
@@ -1865,9 +1414,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "6:55"
+    "bs_time": 415
   },
   {
     "b_name": "347a",
@@ -1876,31 +1425,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "6:59"
+    "bs_time": 419
   },
   {
     "b_name": "347a",
@@ -1909,9 +1436,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "303",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "7:04"
+    "bs_time": 424
   },
   {
     "b_name": "347a",
@@ -1920,9 +1447,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "305",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "6:38"
+    "bs_time": 398
   },
   {
     "b_name": "347a",
@@ -1931,9 +1458,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "305",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "6:40"
+    "bs_time": 400
   },
   {
     "b_name": "347a",
@@ -1942,9 +1469,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "305",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "6:45"
+    "bs_time": 405
   },
   {
     "b_name": "347a",
@@ -1953,9 +1480,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "305",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "6:48"
+    "bs_time": 408
   },
   {
     "b_name": "347a",
@@ -1964,53 +1491,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:51"
+    "bs_time": 411
   },
   {
     "b_name": "347a",
@@ -2019,9 +1502,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "7:24"
+    "bs_time": 444
   },
   {
     "b_name": "347a",
@@ -2030,20 +1513,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "7:27"
+    "bs_time": 447
   },
   {
     "b_name": "347a",
@@ -2052,9 +1524,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "7:32"
+    "bs_time": 452
   },
   {
     "b_name": "347a",
@@ -2063,9 +1535,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "7:36"
+    "bs_time": 456
   },
   {
     "b_name": "347a",
@@ -2074,9 +1546,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "7:40"
+    "bs_time": 460
   },
   {
     "b_name": "347a",
@@ -2085,9 +1557,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:43"
+    "bs_time": 463
   },
   {
     "b_name": "347a",
@@ -2096,20 +1568,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:47"
+    "bs_time": 467
   },
   {
     "b_name": "347a",
@@ -2118,9 +1579,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:49"
+    "bs_time": 469
   },
   {
     "b_name": "347a",
@@ -2129,9 +1590,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:56"
+    "bs_time": 476
   },
   {
     "b_name": "347a",
@@ -2140,9 +1601,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:03"
+    "bs_time": 483
   },
   {
     "b_name": "347a",
@@ -2151,20 +1612,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:03"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "8:08"
+    "bs_time": 488
   },
   {
     "b_name": "347a",
@@ -2173,9 +1623,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "11:41"
+    "bs_time": 701
   },
   {
     "b_name": "347a",
@@ -2184,9 +1634,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Onoz (Village)",
-    "bs_time": "11:43"
+    "bs_time": 703
   },
   {
     "b_name": "347a",
@@ -2195,9 +1645,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "11:48"
+    "bs_time": 708
   },
   {
     "b_name": "347a",
@@ -2206,9 +1656,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "11:51"
+    "bs_time": 711
   },
   {
     "b_name": "347a",
@@ -2217,86 +1667,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "11:55"
+    "bs_time": 715
   },
   {
     "b_name": "347a",
@@ -2305,9 +1678,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:01"
+    "bs_time": 721
   },
   {
     "b_name": "347a",
@@ -2316,9 +1689,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:06"
+    "bs_time": 726
   },
   {
     "b_name": "347a",
@@ -2327,9 +1700,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "13:10"
+    "bs_time": 790
   },
   {
     "b_name": "347a",
@@ -2338,9 +1711,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "13:12"
+    "bs_time": 792
   },
   {
     "b_name": "347a",
@@ -2349,9 +1722,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:17"
+    "bs_time": 797
   },
   {
     "b_name": "347a",
@@ -2360,9 +1733,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "13:20"
+    "bs_time": 800
   },
   {
     "b_name": "347a",
@@ -2371,86 +1744,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:24"
+    "bs_time": 804
   },
   {
     "b_name": "347a",
@@ -2459,9 +1755,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:30"
+    "bs_time": 810
   },
   {
     "b_name": "347a",
@@ -2470,9 +1766,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "313",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:35"
+    "bs_time": 815
   },
   {
     "b_name": "347a",
@@ -2481,9 +1777,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:23"
+    "bs_time": 803
   },
   {
     "b_name": "347a",
@@ -2492,20 +1788,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "13:26"
+    "bs_time": 806
   },
   {
     "b_name": "347a",
@@ -2514,9 +1799,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "13:31"
+    "bs_time": 811
   },
   {
     "b_name": "347a",
@@ -2525,9 +1810,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "13:35"
+    "bs_time": 815
   },
   {
     "b_name": "347a",
@@ -2536,9 +1821,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "13:39"
+    "bs_time": 819
   },
   {
     "b_name": "347a",
@@ -2547,9 +1832,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:42"
+    "bs_time": 822
   },
   {
     "b_name": "347a",
@@ -2558,9 +1843,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "13:45"
+    "bs_time": 825
   },
   {
     "b_name": "347a",
@@ -2569,31 +1854,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "315",
-    "bl_days": "****5",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:49"
+    "bs_time": 829
   },
   {
     "b_name": "347a",
@@ -2602,9 +1865,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:54"
+    "bs_time": 834
   },
   {
     "b_name": "347a",
@@ -2613,31 +1876,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "12*45",
-    "bs_name": "Circulation exceptionnelle",
-    "bs_time": "EXAMEN"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "315",
-    "bl_days": "12*45",
-    "bs_name": "Renvoi en bas de page",
-    "bs_time": "a"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "315",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:23"
+    "bs_time": 803
   },
   {
     "b_name": "347a",
@@ -2646,20 +1887,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "12*45",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "315",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "13:26"
+    "bs_time": 806
   },
   {
     "b_name": "347a",
@@ -2668,9 +1898,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "13:31"
+    "bs_time": 811
   },
   {
     "b_name": "347a",
@@ -2679,9 +1909,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "13:35"
+    "bs_time": 815
   },
   {
     "b_name": "347a",
@@ -2690,9 +1920,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "13:39"
+    "bs_time": 819
   },
   {
     "b_name": "347a",
@@ -2701,9 +1931,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "315",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:42"
+    "bs_time": 822
   },
   {
     "b_name": "347a",
@@ -2712,9 +1942,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "14:06"
+    "bs_time": 846
   },
   {
     "b_name": "347a",
@@ -2723,9 +1953,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
+    "bl_days": "**3****",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": 849
   },
   {
     "b_name": "347a",
@@ -2734,9 +1964,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "14:09"
+    "bl_days": "**3****",
+    "bs_name": "Boignée (Place)",
+    "bs_time": 854
   },
   {
     "b_name": "347a",
@@ -2745,9 +1975,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "14:14"
+    "bl_days": "**3****",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": 858
   },
   {
     "b_name": "347a",
@@ -2756,9 +1986,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "14:18"
+    "bl_days": "**3****",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": 862
   },
   {
     "b_name": "347a",
@@ -2767,20 +1997,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "314",
-    "bl_days": "**3**",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "14:22"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "314",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "14:25"
+    "bs_time": 865
   },
   {
     "b_name": "347a",
@@ -2789,9 +2008,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "317",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "15:42"
+    "bs_time": 942
   },
   {
     "b_name": "347a",
@@ -2800,9 +2019,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "317",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "15:44"
+    "bs_time": 944
   },
   {
     "b_name": "347a",
@@ -2811,9 +2030,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "317",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "15:49"
+    "bs_time": 949
   },
   {
     "b_name": "347a",
@@ -2822,9 +2041,9 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "317",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "15:52"
+    "bs_time": 952
   },
   {
     "b_name": "347a",
@@ -2833,9 +2052,53 @@
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "317",
-    "bl_days": "12345",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": 957
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "317",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 963
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "317",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 970
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "319",
+    "bl_days": "**3****",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 993
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "SCOLAIRE",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
+    "bs_time": 996
   },
   {
     "b_name": "347a",
@@ -2843,10 +2106,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Boignée (Place)",
-    "bs_time": "*"
+    "bs_time": 1001
   },
   {
     "b_name": "347a",
@@ -2854,10 +2117,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
+    "bs_time": 1005
   },
   {
     "b_name": "347a",
@@ -2865,10 +2128,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
+    "bs_time": 1009
   },
   {
     "b_name": "347a",
@@ -2876,10 +2139,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
+    "bs_time": 1012
   },
   {
     "b_name": "347a",
@@ -2887,10 +2150,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
+    "bs_time": 1015
   },
   {
     "b_name": "347a",
@@ -2898,32 +2161,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "15:57"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "16:03"
+    "bs_time": 1019
   },
   {
     "b_name": "347a",
@@ -2931,10 +2172,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "317",
-    "bl_days": "12345",
+    "bl_num": "319",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:10"
+    "bs_time": 1026
   },
   {
     "b_name": "347a",
@@ -2942,10 +2183,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "16:33"
+    "bs_time": 1021
   },
   {
     "b_name": "347a",
@@ -2953,21 +2194,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "16:36"
+    "bs_time": 1024
   },
   {
     "b_name": "347a",
@@ -2975,10 +2205,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "16:41"
+    "bs_time": 1029
   },
   {
     "b_name": "347a",
@@ -2986,10 +2216,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "16:45"
+    "bs_time": 1033
   },
   {
     "b_name": "347a",
@@ -2997,10 +2227,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "16:49"
+    "bs_time": 1037
   },
   {
     "b_name": "347a",
@@ -3008,10 +2238,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "16:52"
+    "bs_time": 1040
   },
   {
     "b_name": "347a",
@@ -3019,10 +2249,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "16:55"
+    "bs_time": 1043
   },
   {
     "b_name": "347a",
@@ -3030,32 +2260,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "16:59"
+    "bs_time": 1047
   },
   {
     "b_name": "347a",
@@ -3063,142 +2271,65 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "319",
-    "bl_days": "**3**",
+    "bl_num": "321",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "17:06"
+    "bs_time": 1053
   },
   {
     "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "17:01"
+    "bl_num": "302",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 363
   },
   {
     "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
+    "bl_num": "302",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 367
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": 370
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 373
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "17:04"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "17:09"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "17:13"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "17:17"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "17:20"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "17:23"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "17:27"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "321",
-    "bl_days": "12*45",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "17:33"
+    "bs_time": 377
   },
   {
     "b_name": "347a",
@@ -3207,86 +2338,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "6:03"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "6:07"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "6:10"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:13"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "6:17"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "6:19"
+    "bs_time": 379
   },
   {
     "b_name": "347a",
@@ -3295,9 +2349,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "6:58"
+    "bs_time": 418
   },
   {
     "b_name": "347a",
@@ -3306,9 +2360,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:02"
+    "bs_time": 422
   },
   {
     "b_name": "347a",
@@ -3317,9 +2371,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": 427
   },
   {
     "b_name": "347a",
@@ -3328,9 +2382,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 430
   },
   {
     "b_name": "347a",
@@ -3339,9 +2393,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "7:07"
+    "bl_days": "12345**",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": 434
   },
   {
     "b_name": "347a",
@@ -3350,31 +2404,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:10"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "304",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "7:14"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "304",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "7:16"
+    "bs_time": 436
   },
   {
     "b_name": "347a",
@@ -3383,9 +2415,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:40"
+    "bs_time": 520
   },
   {
     "b_name": "347a",
@@ -3394,9 +2426,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "8:44"
+    "bs_time": 524
   },
   {
     "b_name": "347a",
@@ -3405,20 +2437,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "8:51"
+    "bs_time": 531
   },
   {
     "b_name": "347a",
@@ -3427,31 +2448,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "306",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "8:55"
+    "bs_time": 535
   },
   {
     "b_name": "347a",
@@ -3460,9 +2459,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "8:59"
+    "bs_time": 539
   },
   {
     "b_name": "347a",
@@ -3471,9 +2470,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "9:03"
+    "bs_time": 543
   },
   {
     "b_name": "347a",
@@ -3482,9 +2481,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "306",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "9:06"
+    "bs_time": 546
   },
   {
     "b_name": "347a",
@@ -3493,9 +2492,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:40"
+    "bs_time": 1000
   },
   {
     "b_name": "347a",
@@ -3504,9 +2503,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "16:44"
+    "bs_time": 1004
   },
   {
     "b_name": "347a",
@@ -3515,31 +2514,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "308",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "308",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "16:49"
+    "bs_time": 1009
   },
   {
     "b_name": "347a",
@@ -3548,9 +2525,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "16:54"
+    "bs_time": 1014
   },
   {
     "b_name": "347a",
@@ -3559,9 +2536,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "16:58"
+    "bs_time": 1018
   },
   {
     "b_name": "347a",
@@ -3570,9 +2547,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "308",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "17:00"
+    "bs_time": 1020
   },
   {
     "b_name": "347a",
@@ -3581,9 +2558,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "18:43"
+    "bs_time": 1123
   },
   {
     "b_name": "347a",
@@ -3592,9 +2569,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "18:47"
+    "bs_time": 1127
   },
   {
     "b_name": "347a",
@@ -3603,20 +2580,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "18:52"
+    "bs_time": 1132
   },
   {
     "b_name": "347a",
@@ -3625,31 +2591,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "18:56"
+    "bs_time": 1136
   },
   {
     "b_name": "347a",
@@ -3658,9 +2602,9 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "18:58"
+    "bs_time": 1138
   },
   {
     "b_name": "347a",
@@ -3669,75 +2613,141 @@
     "bl_title": "347a - VACANCES - Vers Tongrinne",
     "bl_system": "BEFORE",
     "bl_num": "310",
-    "bl_days": "12345",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": 1141
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "310",
+    "bl_days": "12345**",
+    "bs_name": "Boignée (Place)",
+    "bs_time": 1146
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "310",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": 1149
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "310",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": 1152
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "310",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 1155
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "301",
+    "bl_days": "12345**",
+    "bs_name": "Onoz (Gare)",
+    "bs_time": 338
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "*"
+    "bs_time": 340
   },
   {
     "b_name": "347a",
     "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
-    "bs_name": "Onoz (Gare)",
-    "bs_time": "*"
+    "bl_num": "301",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 345
   },
   {
     "b_name": "347a",
     "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "19:01"
+    "bs_time": 348
   },
   {
     "b_name": "347a",
     "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Boignée (Place)",
-    "bs_time": "19:06"
+    "bs_time": 352
   },
   {
     "b_name": "347a",
     "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "19:09"
+    "bs_time": 356
   },
   {
     "b_name": "347a",
     "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Place)",
-    "bs_time": "19:12"
+    "bs_time": 360
   },
   {
     "b_name": "347a",
     "bl_variant": "VACANCES",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - VACANCES - Vers Tongrinne",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "310",
-    "bl_days": "12345",
+    "bl_num": "301",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "19:15"
+    "bs_time": 363
   },
   {
     "b_name": "347a",
@@ -3746,9 +2756,262 @@
     "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "12345",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Cité Marvel)",
+    "bs_time": 367
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "301",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": 369
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "301",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 375
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "301",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 380
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 379
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": 382
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Boignée (Place)",
+    "bs_time": 387
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": 391
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": 395
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 398
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": 401
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 405
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "303",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 410
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 436
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": 439
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Boignée (Place)",
+    "bs_time": 444
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": 448
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": 452
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 455
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Cité Marvel)",
+    "bs_time": 459
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": 461
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 467
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "305",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 472
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "307",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "5:38"
+    "bs_time": 716
   },
   {
     "b_name": "347a",
@@ -3756,406 +3019,10 @@
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
+    "bl_num": "307",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Village)",
-    "bs_time": "5:40"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "5:45"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "5:48"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "5:52"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "5:56"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "6:00"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:03"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "6:07"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "6:09"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "6:15"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "6:20"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "6:19"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "6:22"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "6:27"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "6:31"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "6:35"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:38"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "6:41"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "6:45"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "303",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "6:50"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "7:16"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "7:19"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "7:24"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "7:28"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "7:32"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:35"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:39"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:41"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:47"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "305",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "7:52"
+    "bs_time": 718
   },
   {
     "b_name": "347a",
@@ -4164,152 +3031,64 @@
     "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "307",
-    "bl_days": "12345",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 723
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "307",
+    "bl_days": "12345**",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": 725
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "307",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": 729
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "307",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 735
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "307",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 740
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "309",
+    "bl_days": "12345**",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "11:56"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Onoz (Village)",
-    "bs_time": "11:58"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "12:03"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "12:05"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:09"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:15"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "307",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:20"
+    "bs_time": 896
   },
   {
     "b_name": "347a",
@@ -4318,547 +3097,316 @@
     "bl_title": "347a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "309",
-    "bl_days": "12345",
+    "bl_days": "12345**",
+    "bs_name": "Onoz (Village)",
+    "bs_time": 898
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "309",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 903
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "309",
+    "bl_days": "12345**",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": 905
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "309",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": 909
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "309",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 915
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "309",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 920
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 1020
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Saint-Martin (Centre)",
+    "bs_time": 1023
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Boignée (Place)",
+    "bs_time": 1028
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_time": 1032
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Place)",
+    "bs_time": 1036
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Tongrinne (Docq)",
+    "bs_time": 1039
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_time": 1042
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 1046
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "VACANCES",
+    "bl_direction": "Vers Gembloux",
+    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_system": "BEFORE",
+    "bl_num": "311",
+    "bl_days": "12345**",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 1051
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
+    "bs_name": "Gembloux (Gare)",
+    "bs_time": 820
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
+    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_time": 824
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
+    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_time": 828
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
+    "bs_name": "Bothey (Chat botté)",
+    "bs_time": 832
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
+    "bs_name": "Saint-Martin (Ferme de Villeret)",
+    "bs_time": 834
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
+    "bs_name": "Onoz (Village)",
+    "bs_time": 838
+  },
+  {
+    "b_name": "347a",
+    "bl_variant": "TOUT",
+    "bl_direction": "Vers Tongrinne",
+    "bl_title": "347a - SAMEDI - Vers Tongrinne",
+    "bl_system": "BEFORE",
+    "bl_num": "302",
+    "bl_days": "*****6*",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "14:56"
+    "bs_time": 841
   },
   {
     "b_name": "347a",
-    "bl_variant": "VACANCES",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
+    "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Onoz (Village)",
-    "bs_time": "14:58"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "15:03"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "15:05"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "15:09"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "15:15"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "309",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "15:20"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "17:00"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "17:03"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "17:08"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "17:12"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "17:16"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "17:19"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "17:22"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "17:26"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "311",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "17:31"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:40"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:44"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:48"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Bothey (Chat botté)",
-    "bs_time": "13:52"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "13:54"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
-    "bs_name": "Onoz (Village)",
-    "bs_time": "13:58"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Tongrinne",
-    "bl_title": "347a - SAMEDI - Vers Tongrinne",
-    "bl_system": "BEFORE",
-    "bl_num": "302",
-    "bl_days": "6",
+    "bl_num": "301",
+    "bl_days": "*****6*",
     "bs_name": "Onoz (Gare)",
-    "bs_time": "14:01"
+    "bs_time": 836
   },
   {
     "b_name": "347a",
-    "bl_variant": "SAMEDI",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Onoz (Gare)",
-    "bs_time": "13:56"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
+    "bl_days": "*****6*",
     "bs_name": "Onoz (Village)",
-    "bs_time": "13:58"
+    "bs_time": 838
   },
   {
     "b_name": "347a",
-    "bl_variant": "SAMEDI",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "6",
+    "bl_days": "*****6*",
     "bs_name": "Saint-Martin (Ferme de Villeret)",
-    "bs_time": "14:03"
+    "bs_time": 843
   },
   {
     "b_name": "347a",
-    "bl_variant": "SAMEDI",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "6",
+    "bl_days": "*****6*",
     "bs_name": "Bothey (Chat botté)",
-    "bs_time": "14:05"
+    "bs_time": 845
   },
   {
     "b_name": "347a",
-    "bl_variant": "SAMEDI",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Saint-Martin (Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Boignée (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Tongrinne (Place)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Tongrinne (Docq)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Corroy-le-Château (Bruynette)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
-    "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "*"
-  },
-  {
-    "b_name": "347a",
-    "bl_variant": "SAMEDI",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "347a - SAMEDI - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "301",
-    "bl_days": "6",
+    "bl_days": "*****6*",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "14:09"
+    "bs_time": 849
   },
   {
     "b_name": "347a",
-    "bl_variant": "SAMEDI",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "6",
+    "bl_days": "*****6*",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "14:15"
+    "bs_time": 855
   },
   {
     "b_name": "347a",
-    "bl_variant": "SAMEDI",
+    "bl_variant": "TOUT",
     "bl_direction": "Vers Gembloux",
     "bl_title": "347a - SAMEDI - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "301",
-    "bl_days": "6",
+    "bl_days": "*****6*",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "14:20"
+    "bs_time": 860
   }
 ]

@@ -1,5 +1,6 @@
 require "json"
 require "path"
+require_relative './datatypes'
 
 def timeline_blocks(raw_data)
   blocks = []
@@ -26,12 +27,14 @@ def extract_timeline(bus_line)
       bl_num = raw_data[block.end][col_index]
       bus_stops = raw_data[(block.begin+1)...block.end].map{|line|
         next if line[col_index].to_s.empty?
+        next unless line[col_index].to_s =~ BlTime::RX
         bus_line.merge({
-          bl_system: "BEFORE",
-          bl_num: bl_num,
-          bl_days: bl_days,
-          bs_name: line[0].strip,
-          bs_time: line[col_index].strip,
+          "bl_system" => "BEFORE",
+          "bl_variant" => BlVariant.normalize(bus_line["bl_variant"]),
+          "bl_num" => bl_num,
+          "bl_days" => BlDays.normalize(bl_days),
+          "bs_name" => line[0].strip,
+          "bs_time" => BlTime.normalize(line[col_index].strip),
         })
       }.compact
     }.flatten
@@ -42,6 +45,6 @@ root = Path.backfind('.[Gemfile]')
 (root/'data'/'raw_data'/'old').glob("*.json") do |file|
   lines = file.load.map{|line|
     extract_timeline(line)
-  }.flatten
+  }.flatten.uniq
   ((root/'data'/'seminormalized')/file.basename).write(JSON.pretty_generate(lines))
 end

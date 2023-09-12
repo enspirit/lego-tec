@@ -6,9 +6,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "6:24"
+    "bs_time": 384
   },
   {
     "b_name": "247a",
@@ -17,9 +17,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "6:29"
+    "bs_time": 389
   },
   {
     "b_name": "247a",
@@ -28,9 +28,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "6:34"
+    "bs_time": 394
   },
   {
     "b_name": "247a",
@@ -39,9 +39,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "6:35"
+    "bs_time": 395
   },
   {
     "b_name": "247a",
@@ -50,9 +50,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:42"
+    "bs_time": 402
   },
   {
     "b_name": "247a",
@@ -61,9 +61,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "6:45"
+    "bs_time": 405
   },
   {
     "b_name": "247a",
@@ -72,9 +72,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "7:11"
+    "bs_time": 431
   },
   {
     "b_name": "247a",
@@ -83,9 +83,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:16"
+    "bs_time": 436
   },
   {
     "b_name": "247a",
@@ -94,9 +94,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:23"
+    "bs_time": 443
   },
   {
     "b_name": "247a",
@@ -105,9 +105,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:24"
+    "bs_time": 444
   },
   {
     "b_name": "247a",
@@ -116,9 +116,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:31"
+    "bs_time": 451
   },
   {
     "b_name": "247a",
@@ -127,9 +127,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "7:34"
+    "bs_time": 454
   },
   {
     "b_name": "247a",
@@ -138,9 +138,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "9:40"
+    "bs_time": 580
   },
   {
     "b_name": "247a",
@@ -149,9 +149,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "9:45"
+    "bs_time": 585
   },
   {
     "b_name": "247a",
@@ -160,9 +160,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "9:52"
+    "bs_time": 592
   },
   {
     "b_name": "247a",
@@ -171,9 +171,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "9:53"
+    "bs_time": 593
   },
   {
     "b_name": "247a",
@@ -182,9 +182,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:26"
+    "bs_time": 746
   },
   {
     "b_name": "247a",
@@ -193,9 +193,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:31"
+    "bs_time": 751
   },
   {
     "b_name": "247a",
@@ -204,9 +204,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
+    "bs_time": 760
   },
   {
     "b_name": "247a",
@@ -215,9 +215,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:45"
+    "bs_time": 765
   },
   {
     "b_name": "247a",
@@ -226,9 +226,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "247a",
@@ -237,9 +237,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:53"
+    "bs_time": 773
   },
   {
     "b_name": "247a",
@@ -248,9 +248,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:00"
+    "bs_time": 780
   },
   {
     "b_name": "247a",
@@ -259,9 +259,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "13:04"
+    "bs_time": 784
   },
   {
     "b_name": "247a",
@@ -270,31 +270,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
-    "bs_name": "Circulation exceptionnelle",
-    "bs_time": "EXAMEN"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Sombreffe",
-    "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
-    "bl_system": "BEFORE",
-    "bl_num": "208",
-    "bl_days": "12*45",
-    "bs_name": "Renvoi en bas de page",
-    "bs_time": "a"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Sombreffe",
-    "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
-    "bl_system": "BEFORE",
-    "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:26"
+    "bs_time": 746
   },
   {
     "b_name": "247a",
@@ -303,9 +281,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:31"
+    "bs_time": 751
   },
   {
     "b_name": "247a",
@@ -314,9 +292,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
+    "bs_time": 760
   },
   {
     "b_name": "247a",
@@ -325,9 +303,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:45"
+    "bs_time": 765
   },
   {
     "b_name": "247a",
@@ -336,9 +314,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "247a",
@@ -347,9 +325,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:53"
+    "bs_time": 773
   },
   {
     "b_name": "247a",
@@ -358,9 +336,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:00"
+    "bs_time": 780
   },
   {
     "b_name": "247a",
@@ -369,9 +347,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "208",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "13:04"
+    "bs_time": 784
   },
   {
     "b_name": "247a",
@@ -380,9 +358,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "210",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:26"
+    "bs_time": 746
   },
   {
     "b_name": "247a",
@@ -391,9 +369,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "210",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:31"
+    "bs_time": 751
   },
   {
     "b_name": "247a",
@@ -402,9 +380,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "210",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
+    "bs_time": 760
   },
   {
     "b_name": "247a",
@@ -413,9 +391,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "210",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:45"
+    "bs_time": 765
   },
   {
     "b_name": "247a",
@@ -424,9 +402,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "210",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "247a",
@@ -435,9 +413,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "210",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:53"
+    "bs_time": 773
   },
   {
     "b_name": "247a",
@@ -446,9 +424,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "16:26"
+    "bs_time": 986
   },
   {
     "b_name": "247a",
@@ -457,9 +435,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:31"
+    "bs_time": 991
   },
   {
     "b_name": "247a",
@@ -468,9 +446,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "16:40"
+    "bs_time": 1000
   },
   {
     "b_name": "247a",
@@ -479,9 +457,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "16:45"
+    "bs_time": 1005
   },
   {
     "b_name": "247a",
@@ -490,9 +468,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "16:52"
+    "bs_time": 1012
   },
   {
     "b_name": "247a",
@@ -501,9 +479,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "16:53"
+    "bs_time": 1013
   },
   {
     "b_name": "247a",
@@ -512,9 +490,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "17:03"
+    "bs_time": 1023
   },
   {
     "b_name": "247a",
@@ -523,9 +501,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "212",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "17:07"
+    "bs_time": 1027
   },
   {
     "b_name": "247a",
@@ -534,9 +512,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "214",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "18:10"
+    "bs_time": 1090
   },
   {
     "b_name": "247a",
@@ -545,9 +523,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "214",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "18:15"
+    "bs_time": 1095
   },
   {
     "b_name": "247a",
@@ -556,9 +534,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "214",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "18:20"
+    "bs_time": 1100
   },
   {
     "b_name": "247a",
@@ -567,9 +545,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "214",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "18:21"
+    "bs_time": 1101
   },
   {
     "b_name": "247a",
@@ -578,9 +556,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "214",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "18:28"
+    "bs_time": 1108
   },
   {
     "b_name": "247a",
@@ -589,9 +567,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "214",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "18:31"
+    "bs_time": 1111
   },
   {
     "b_name": "247a",
@@ -600,9 +578,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "6:45"
+    "bs_time": 405
   },
   {
     "b_name": "247a",
@@ -611,9 +589,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "6:49"
+    "bs_time": 409
   },
   {
     "b_name": "247a",
@@ -622,9 +600,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "6:54"
+    "bs_time": 414
   },
   {
     "b_name": "247a",
@@ -633,9 +611,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "6:58"
+    "bs_time": 418
   },
   {
     "b_name": "247a",
@@ -644,9 +622,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:02"
+    "bs_time": 422
   },
   {
     "b_name": "247a",
@@ -655,9 +633,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:04"
+    "bs_time": 424
   },
   {
     "b_name": "247a",
@@ -666,9 +644,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:11"
+    "bs_time": 431
   },
   {
     "b_name": "247a",
@@ -677,9 +655,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "7:18"
+    "bs_time": 438
   },
   {
     "b_name": "247a",
@@ -688,9 +666,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "7:34"
+    "bs_time": 454
   },
   {
     "b_name": "247a",
@@ -699,9 +677,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "7:38"
+    "bs_time": 458
   },
   {
     "b_name": "247a",
@@ -710,9 +688,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "7:43"
+    "bs_time": 463
   },
   {
     "b_name": "247a",
@@ -721,9 +699,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:48"
+    "bs_time": 468
   },
   {
     "b_name": "247a",
@@ -732,9 +710,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:52"
+    "bs_time": 472
   },
   {
     "b_name": "247a",
@@ -743,9 +721,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:54"
+    "bs_time": 474
   },
   {
     "b_name": "247a",
@@ -754,9 +732,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "8:01"
+    "bs_time": 481
   },
   {
     "b_name": "247a",
@@ -765,9 +743,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:08"
+    "bs_time": 488
   },
   {
     "b_name": "247a",
@@ -776,20 +754,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:08"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "247a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "203",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "8:13"
+    "bs_time": 493
   },
   {
     "b_name": "247a",
@@ -798,9 +765,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "7:43"
+    "bs_time": 463
   },
   {
     "b_name": "247a",
@@ -809,9 +776,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:48"
+    "bs_time": 468
   },
   {
     "b_name": "247a",
@@ -820,9 +787,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:52"
+    "bs_time": 472
   },
   {
     "b_name": "247a",
@@ -831,9 +798,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:54"
+    "bs_time": 474
   },
   {
     "b_name": "247a",
@@ -842,9 +809,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "8:01"
+    "bs_time": 481
   },
   {
     "b_name": "247a",
@@ -853,9 +820,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:08"
+    "bs_time": 488
   },
   {
     "b_name": "247a",
@@ -864,20 +831,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "12345",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "8:08"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "247a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "205",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "8:13"
+    "bs_time": 493
   },
   {
     "b_name": "247a",
@@ -886,9 +842,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "9:53"
+    "bs_time": 593
   },
   {
     "b_name": "247a",
@@ -897,9 +853,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "9:59"
+    "bs_time": 599
   },
   {
     "b_name": "247a",
@@ -908,9 +864,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "10:04"
+    "bs_time": 604
   },
   {
     "b_name": "247a",
@@ -919,20 +875,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "****5",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "10:04"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "247a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "207",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "10:09"
+    "bs_time": 609
   },
   {
     "b_name": "247a",
@@ -941,9 +886,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "209",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:53"
+    "bs_time": 773
   },
   {
     "b_name": "247a",
@@ -952,9 +897,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "209",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:59"
+    "bs_time": 779
   },
   {
     "b_name": "247a",
@@ -963,9 +908,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "209",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:04"
+    "bs_time": 784
   },
   {
     "b_name": "247a",
@@ -974,9 +919,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "13:04"
+    "bs_time": 784
   },
   {
     "b_name": "247a",
@@ -985,9 +930,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "13:07"
+    "bs_time": 787
   },
   {
     "b_name": "247a",
@@ -996,9 +941,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "13:11"
+    "bs_time": 791
   },
   {
     "b_name": "247a",
@@ -1007,9 +952,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:15"
+    "bs_time": 795
   },
   {
     "b_name": "247a",
@@ -1018,9 +963,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "13:19"
+    "bs_time": 799
   },
   {
     "b_name": "247a",
@@ -1029,9 +974,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:21"
+    "bs_time": 801
   },
   {
     "b_name": "247a",
@@ -1040,9 +985,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:27"
+    "bs_time": 807
   },
   {
     "b_name": "247a",
@@ -1051,9 +996,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "**3**",
+    "bl_days": "**3****",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:32"
+    "bs_time": 812
   },
   {
     "b_name": "247a",
@@ -1062,31 +1007,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
-    "bs_name": "Circulation exceptionnelle",
-    "bs_time": "EXAMEN"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "247a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "211",
-    "bl_days": "12*45",
-    "bs_name": "Renvoi en bas de page",
-    "bs_time": "a"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "SCOLAIRE",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "247a - SCOLAIRE - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "13:04"
+    "bs_time": 784
   },
   {
     "b_name": "247a",
@@ -1095,9 +1018,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "13:07"
+    "bs_time": 787
   },
   {
     "b_name": "247a",
@@ -1106,9 +1029,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "13:11"
+    "bs_time": 791
   },
   {
     "b_name": "247a",
@@ -1117,9 +1040,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "13:15"
+    "bs_time": 795
   },
   {
     "b_name": "247a",
@@ -1128,9 +1051,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "13:19"
+    "bs_time": 799
   },
   {
     "b_name": "247a",
@@ -1139,9 +1062,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "13:21"
+    "bs_time": 801
   },
   {
     "b_name": "247a",
@@ -1150,9 +1073,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "13:27"
+    "bs_time": 807
   },
   {
     "b_name": "247a",
@@ -1161,9 +1084,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "211",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:32"
+    "bs_time": 812
   },
   {
     "b_name": "247a",
@@ -1172,9 +1095,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "17:07"
+    "bs_time": 1027
   },
   {
     "b_name": "247a",
@@ -1183,9 +1106,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "17:10"
+    "bs_time": 1030
   },
   {
     "b_name": "247a",
@@ -1194,9 +1117,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "17:14"
+    "bs_time": 1034
   },
   {
     "b_name": "247a",
@@ -1205,9 +1128,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "17:18"
+    "bs_time": 1038
   },
   {
     "b_name": "247a",
@@ -1216,9 +1139,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "17:22"
+    "bs_time": 1042
   },
   {
     "b_name": "247a",
@@ -1227,9 +1150,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "17:24"
+    "bs_time": 1044
   },
   {
     "b_name": "247a",
@@ -1238,9 +1161,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "17:30"
+    "bs_time": 1050
   },
   {
     "b_name": "247a",
@@ -1249,9 +1172,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "213",
-    "bl_days": "12*45",
+    "bl_days": "12*45**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "17:36"
+    "bs_time": 1056
   },
   {
     "b_name": "247a",
@@ -1260,9 +1183,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "215",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "18:31"
+    "bs_time": 1111
   },
   {
     "b_name": "247a",
@@ -1271,9 +1194,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "215",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "18:34"
+    "bs_time": 1114
   },
   {
     "b_name": "247a",
@@ -1282,9 +1205,9 @@
     "bl_title": "247a - SCOLAIRE - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "215",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "18:38"
+    "bs_time": 1118
   },
   {
     "b_name": "247a",
@@ -1293,9 +1216,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "9:40"
+    "bs_time": 580
   },
   {
     "b_name": "247a",
@@ -1304,9 +1227,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "9:44"
+    "bs_time": 584
   },
   {
     "b_name": "247a",
@@ -1315,9 +1238,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "9:51"
+    "bs_time": 591
   },
   {
     "b_name": "247a",
@@ -1326,9 +1249,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "202",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "9:52"
+    "bs_time": 592
   },
   {
     "b_name": "247a",
@@ -1337,9 +1260,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "12:35"
+    "bs_time": 755
   },
   {
     "b_name": "247a",
@@ -1348,9 +1271,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
+    "bs_time": 760
   },
   {
     "b_name": "247a",
@@ -1359,20 +1282,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "****5",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "12:40"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Sombreffe",
-    "bl_title": "247a - VACANCES - Vers Sombreffe",
-    "bl_system": "BEFORE",
-    "bl_num": "204",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:44"
+    "bs_time": 764
   },
   {
     "b_name": "247a",
@@ -1381,9 +1293,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "12:51"
+    "bs_time": 771
   },
   {
     "b_name": "247a",
@@ -1392,9 +1304,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "204",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "247a",
@@ -1403,9 +1315,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "18:10"
+    "bs_time": 1090
   },
   {
     "b_name": "247a",
@@ -1414,9 +1326,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "18:14"
+    "bs_time": 1094
   },
   {
     "b_name": "247a",
@@ -1425,9 +1337,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "18:19"
+    "bs_time": 1099
   },
   {
     "b_name": "247a",
@@ -1436,9 +1348,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "18:20"
+    "bs_time": 1100
   },
   {
     "b_name": "247a",
@@ -1447,9 +1359,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "18:27"
+    "bs_time": 1107
   },
   {
     "b_name": "247a",
@@ -1458,9 +1370,9 @@
     "bl_title": "247a - VACANCES - Vers Sombreffe",
     "bl_system": "BEFORE",
     "bl_num": "206",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "18:30"
+    "bs_time": 1110
   },
   {
     "b_name": "247a",
@@ -1469,9 +1381,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "6:52"
+    "bs_time": 412
   },
   {
     "b_name": "247a",
@@ -1480,9 +1392,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "6:56"
+    "bs_time": 416
   },
   {
     "b_name": "247a",
@@ -1491,9 +1403,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "6:59"
+    "bs_time": 419
   },
   {
     "b_name": "247a",
@@ -1502,9 +1414,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Tongrinne (Docq)",
-    "bs_time": "7:03"
+    "bs_time": 423
   },
   {
     "b_name": "247a",
@@ -1513,9 +1425,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Cité Marvel)",
-    "bs_time": "7:07"
+    "bs_time": 427
   },
   {
     "b_name": "247a",
@@ -1524,9 +1436,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "7:09"
+    "bs_time": 429
   },
   {
     "b_name": "247a",
@@ -1535,9 +1447,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "7:15"
+    "bs_time": 435
   },
   {
     "b_name": "247a",
@@ -1546,9 +1458,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "201",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "7:20"
+    "bs_time": 440
   },
   {
     "b_name": "247a",
@@ -1557,9 +1469,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "9:52"
+    "bs_time": 592
   },
   {
     "b_name": "247a",
@@ -1568,9 +1480,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "9:58"
+    "bs_time": 598
   },
   {
     "b_name": "247a",
@@ -1579,9 +1491,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "10:03"
+    "bs_time": 603
   },
   {
     "b_name": "247a",
@@ -1590,20 +1502,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "203",
-    "bl_days": "****5",
-    "bs_name": "Gembloux (Gare)",
-    "bs_time": "10:03"
-  },
-  {
-    "b_name": "247a",
-    "bl_variant": "VACANCES",
-    "bl_direction": "Vers Gembloux",
-    "bl_title": "247a - VACANCES - Vers Gembloux",
-    "bl_system": "BEFORE",
-    "bl_num": "203",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Quatre Coins)",
-    "bs_time": "10:08"
+    "bs_time": 608
   },
   {
     "b_name": "247a",
@@ -1612,9 +1513,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Corroy-le-Château (Place communale)",
-    "bs_time": "12:52"
+    "bs_time": 772
   },
   {
     "b_name": "247a",
@@ -1623,9 +1524,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Grand-Manil (Chaussée de Charleroi)",
-    "bs_time": "12:58"
+    "bs_time": 778
   },
   {
     "b_name": "247a",
@@ -1634,9 +1535,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "205",
-    "bl_days": "****5",
+    "bl_days": "****5**",
     "bs_name": "Gembloux (Gare)",
-    "bs_time": "13:03"
+    "bs_time": 783
   },
   {
     "b_name": "247a",
@@ -1645,9 +1546,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "18:30"
+    "bs_time": 1110
   },
   {
     "b_name": "247a",
@@ -1656,9 +1557,9 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Pont-au-Rieu)",
-    "bs_time": "18:33"
+    "bs_time": 1113
   },
   {
     "b_name": "247a",
@@ -1667,8 +1568,8 @@
     "bl_title": "247a - VACANCES - Vers Gembloux",
     "bl_system": "BEFORE",
     "bl_num": "207",
-    "bl_days": "12345",
+    "bl_days": "12345**",
     "bs_name": "Sombreffe (Place du Stain)",
-    "bs_time": "18:36"
+    "bs_time": 1116
   }
 ]
