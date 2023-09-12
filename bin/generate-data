@@ -1,4 +1,9 @@
-#!/bin/sh
-rm -rf data/seminormalized/*
-bundle exec ruby lib/parse_worksheet_raw_data.rb
-bundle exec ruby lib/parse_pdf_raw_data.rb
+#!/usr/bin/env ruby
+$LOAD_PATH.unshift(File.expand_path('../../lib', __FILE__))
+require 'bundler/setup'
+require 'lego_tec'
+require 'fileutils'
+
+FileUtils.rm_rf "data/seminormalized/*"
+LegoTec::Data::Parser::WorksheetRawDataParser.new.run
+LegoTec::Data::Parser::PdfRawDataParser.new.run
