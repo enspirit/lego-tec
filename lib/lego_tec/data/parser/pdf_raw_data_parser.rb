@@ -27,7 +27,7 @@ module LegoTec
                 bl_direction: data[:bl_direction],
                 bl_num: bl_num,
                 bl_days: Datatypes::BlDays.normalize(data[:bl_days][i]),
-                bs_name: slice[0],
+                bs_name: Datatypes::BsName.normalize(slice[0]),
                 bs_time: Datatypes::BlTime.normalize(slice[i+1])
               }
             }.compact

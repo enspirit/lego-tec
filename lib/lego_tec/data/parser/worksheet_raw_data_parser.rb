@@ -44,7 +44,7 @@ module LegoTec
                   "bl_variant" => Datatypes::BlVariant.normalize(bus_line["bl_variant"]),
                   "bl_num" => bl_num,
                   "bl_days" => Datatypes::BlDays.normalize(bl_days),
-                  "bs_name" => line[0].strip,
+                  "bs_name" => Datatypes::BsName.normalize(line[0].strip),
                   "bs_time" => Datatypes::BlTime.normalize(line[col_index].strip),
                 })
               }.compact

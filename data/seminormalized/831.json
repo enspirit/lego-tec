@@ -18,7 +18,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 751
   },
   {
@@ -128,7 +128,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 991
   },
   {
@@ -315,7 +315,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 485
   },
   {

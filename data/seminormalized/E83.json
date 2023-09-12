@@ -7,7 +7,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "1",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 367
   },
   {
@@ -139,7 +139,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "3",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 427
   },
   {
@@ -271,7 +271,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "5",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 487
   },
   {
@@ -403,7 +403,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "7",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 547
   },
   {
@@ -535,7 +535,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "9",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 607
   },
   {
@@ -667,7 +667,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "11",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 667
   },
   {
@@ -799,7 +799,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "13",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 727
   },
   {
@@ -931,7 +931,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "15",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 787
   },
   {
@@ -1063,7 +1063,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "17",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 847
   },
   {
@@ -1195,7 +1195,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "19",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 907
   },
   {
@@ -1327,7 +1327,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "21",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 967
   },
   {
@@ -1459,7 +1459,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "23",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1027
   },
   {
@@ -1591,7 +1591,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "25",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1087
   },
   {
@@ -1723,7 +1723,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "27",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1147
   },
   {
@@ -3703,7 +3703,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "1",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 367
   },
   {
@@ -3835,7 +3835,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "3",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 427
   },
   {
@@ -3967,7 +3967,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "5",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 487
   },
   {
@@ -4099,7 +4099,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "7",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 547
   },
   {
@@ -4231,7 +4231,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "9",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 607
   },
   {
@@ -4363,7 +4363,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "11",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 667
   },
   {
@@ -4495,7 +4495,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "13",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 727
   },
   {
@@ -4627,7 +4627,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "15",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 787
   },
   {
@@ -4759,7 +4759,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "17",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 847
   },
   {
@@ -4891,7 +4891,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "19",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 907
   },
   {
@@ -5023,7 +5023,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "21",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 967
   },
   {
@@ -5155,7 +5155,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "23",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1027
   },
   {
@@ -5287,7 +5287,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "25",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1087
   },
   {
@@ -5419,7 +5419,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "27",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1147
   },
   {
@@ -7399,7 +7399,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "3",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 455
   },
   {
@@ -7531,7 +7531,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "7",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 575
   },
   {
@@ -7663,7 +7663,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "11",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 695
   },
   {
@@ -7795,7 +7795,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "15",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 815
   },
   {
@@ -7927,7 +7927,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "19",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 935
   },
   {
@@ -8059,7 +8059,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "23",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1055
   },
   {
@@ -8191,7 +8191,7 @@
     "bl_direction": "Vers Charleroi",
     "bl_num": "27",
     "bl_days": "*****6*",
-    "bs_name": "Gembloux (Gare Quai 5)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 1175
   },
   {

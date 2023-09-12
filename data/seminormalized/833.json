@@ -18,7 +18,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare Quai 6)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 750
   },
   {
@@ -150,7 +150,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare Quai 6)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 990
   },
   {
@@ -381,7 +381,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 6)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 483
   },
   {

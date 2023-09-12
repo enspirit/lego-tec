@@ -18,7 +18,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 728
   },
   {
@@ -117,7 +117,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 749
   },
   {
@@ -216,7 +216,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 788
   },
   {
@@ -315,7 +315,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 975
   },
   {
@@ -414,7 +414,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 975
   },
   {
@@ -513,7 +513,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 989
   },
   {
@@ -678,7 +678,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 474
   },
   {
@@ -777,7 +777,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 491
   },
   {
@@ -876,7 +876,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare Quai 4)",
+    "bs_name": "Gembloux (Gare)",
     "bs_time": 516
   },
   {
