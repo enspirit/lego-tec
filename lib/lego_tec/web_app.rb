@@ -19,7 +19,7 @@ module LegoTec
     get '/' do
       tpl = settings.views/'home.mustache'
       min_hour = (params['min-hour'] || 5).to_i
-      max_hour = (params['max-hour'] || 20).to_i
+      max_hour = (params['max-hour'] || 9).to_i
       options = {
         from: params["from"],
         to: params["to"],
@@ -30,6 +30,9 @@ module LegoTec
         slot_size: 60,
       }
       slots = settings.db.slots_for(options)
+      systems = settings.db
+        .comparison_table_for(options, slots)
+        .to_a
       data = {
         :days => settings.db
           .days
@@ -51,12 +54,21 @@ module LegoTec
             is_to: ->(t){ t[:bs_name] == options[:to] },
           })
           .to_a
-          .sort{|s1,s2| s1[:bs_name] <=> s2[:bs_name] },
+          .sort{|s1,s2|
+            s1[:bs_name].downcase <=> s2[:bs_name].downcase
+          },
         :slots => slots
           .to_a,
-        :systems => settings.db
-          .comparison_table_for(options, slots),
+        :systems => systems,
+        :empty => systems.empty?,
         :full_colspan => 1+slots.count,
+        :hours => (5..20).map{|h|
+          {
+            :hour => h,
+            :is_min_hour => h == min_hour,
+            :is_max_hour => h == max_hour,
+          }
+        },
         :min_hour => options[:min_hour]/60,
         :max_hour => options[:max_hour]/60,
       }

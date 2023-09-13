@@ -11,4 +11,9 @@ describe LegoTec::WebApp do
     get '/'
     expect(last_response).to be_ok
   end
+
+  it 'serves statics' do
+    get '/index.css'
+    expect(last_response).to be_ok
+  end
 end
