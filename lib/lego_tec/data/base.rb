@@ -10,17 +10,29 @@ module LegoTec
       end
 
       def days
-        full_data.project([:bl_days]).materialize
+        Bmg::Relation.new([
+          "Lundi",
+          "Mardi",
+          "Mercredi",
+          "Jeudi",
+          "Vendredi",
+          "Samedi",
+        ].each_with_index.map do |day,i|
+          {
+            day_num: 1+i,
+            day_name: day,
+          }
+        end)
       end
 
       def variants
         full_data.project([:bl_variant]).materialize
       end
-      
+
       def slots_for(options = {})
         min_hour  = options[:min_hour]
         max_hour  = options[:max_hour]
-        slot_size = options[:slot_size] 
+        slot_size = options[:slot_size]
 
         Bmg::Relation.new(((min_hour/slot_size)..(max_hour/slot_size))
           .map{|h| h*slot_size }
@@ -33,11 +45,12 @@ module LegoTec
           })
       end
 
-      def comparison_table_for(options = {}, slots = slots_for(options))
+      def comparison_table_for(options = {},
+      slots = slots_for(options))
         min_hour  = options[:min_hour]
         max_hour  = options[:max_hour]
         slot_size = options[:slot_size]
-        days      = options[:days]
+        day       = options[:day]
         variant   = options[:variant]
         from      = options[:from]
         to        = options[:to]
@@ -47,11 +60,10 @@ module LegoTec
             full_data.rename({
               :bs_name => :cs_name,
               :bs_time => :cs_time
-            }), 
+            }),
             [:b_name, :bl_system, :bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days]
           )
           .restrict({
-            :bl_days => days,
             :bl_variant => [variant, "TOUT"],
             :bs_name => from,
             :cs_name => to,
@@ -62,11 +74,14 @@ module LegoTec
           .restrict(
             Predicate.lt(:bs_time, :cs_time)
           )
+          .restrict(->(t) {
+            t[:bl_days][day-1...day] == day.to_s
+          })
           .summarize(
             [:b_name, :bl_system, :bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days],
             {
               :bs_time => :min,
-              :cs_time => :max        
+              :cs_time => :max
             }
           )
           .extend({
@@ -93,7 +108,7 @@ module LegoTec
                 :buses => ->(t) {
                   t[:buses]
                     .to_a
-                    .sort{|t1,t2| t1[:bs_time] <=> t2[:bs_time] }  
+                    .sort{|t1,t2| t1[:bs_time] <=> t2[:bs_time] }
                 }
               })
               .to_a
@@ -114,7 +129,7 @@ module LegoTec
           .to_a
           .sort{|t1,t2| t2[:bl_system] <=> t1[:bl_system] }
         end
-  
+
     private
 
       def to_human_time(time)

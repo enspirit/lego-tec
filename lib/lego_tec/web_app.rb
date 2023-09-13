@@ -23,7 +23,7 @@ module LegoTec
       options = {
         from: params["from"],
         to: params["to"],
-        days: params["days"] || "12345**",
+        day: (params["day"] || "1").to_i,
         variant: params["variant"] || "SCOLAIRE",
         min_hour: min_hour*60,
         max_hour: max_hour*60,
@@ -37,10 +37,10 @@ module LegoTec
         :days => settings.db
           .days
           .extend({
-            is_days: ->(t){ t[:bl_days] == options[:days] },
+            is_day: ->(t){ t[:day_num] == options[:day] },
           })
           .to_a
-          .sort{|t1,t2| t1[:bl_days] <=> t2[:bl_days] },
+          .sort{|t1,t2| t1[:day_num] <=> t2[:day_num] },
         :variants => settings.db
           .variants
           .extend({

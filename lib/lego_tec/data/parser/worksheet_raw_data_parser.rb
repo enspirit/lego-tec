@@ -40,7 +40,7 @@ module LegoTec
                 next if line[col_index].to_s.empty?
                 next unless line[col_index].to_s =~ Datatypes::BlTime::RX
                 bus_line.merge({
-                  "bl_system" => "BEFORE",
+                  "bl_system" => "AVANT",
                   "bl_variant" => Datatypes::BlVariant.normalize(bus_line["bl_variant"]),
                   "bl_num" => bl_num,
                   "bl_days" => Datatypes::BlDays.normalize(bl_days),

@@ -21,7 +21,7 @@ module LegoTec
               next if slice[i+1].nil? || slice[i+1].empty?
               {
                 b_name: data[:b_name],
-                bl_system: "AFTER",
+                bl_system: "APRES",
                 bl_title: data[:bl_title],
                 bl_variant: Datatypes::BlVariant.normalize(data[:bl_variant]),
                 bl_direction: data[:bl_direction],
