@@ -7,7 +7,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 746
   },
   {
@@ -18,7 +18,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 751
   },
   {
@@ -29,7 +29,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 756
   },
   {
@@ -40,7 +40,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 760
   },
   {
@@ -51,7 +51,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_name": "Corroy-le-chateau (bruynette)",
     "bs_time": 761
   },
   {
@@ -62,7 +62,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 762
   },
   {
@@ -73,7 +73,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 766
   },
   {
@@ -84,7 +84,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 770
   },
   {
@@ -95,7 +95,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Sombreffe (Pont-au-Rieu)",
+    "bs_name": "Sombreffe (pont-au-rieu)",
     "bs_time": 775
   },
   {
@@ -106,7 +106,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 779
   },
   {
@@ -117,7 +117,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 986
   },
   {
@@ -128,7 +128,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 991
   },
   {
@@ -139,7 +139,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 996
   },
   {
@@ -150,7 +150,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 1000
   },
   {
@@ -161,7 +161,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_name": "Corroy-le-chateau (bruynette)",
     "bs_time": 1001
   },
   {
@@ -172,7 +172,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 1002
   },
   {
@@ -183,7 +183,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 1006
   },
   {
@@ -194,7 +194,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 1010
   },
   {
@@ -205,7 +205,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Sombreffe (Pont-au-Rieu)",
+    "bs_name": "Sombreffe (pont-au-rieu)",
     "bs_time": 1015
   },
   {
@@ -216,7 +216,7 @@
     "bl_direction": "Vers Sombreffe",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 1019
   },
   {
@@ -227,7 +227,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 456
   },
   {
@@ -238,7 +238,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Sombreffe (Pont-au-Rieu)",
+    "bs_name": "Sombreffe (pont-au-rieu)",
     "bs_time": 460
   },
   {
@@ -249,7 +249,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 465
   },
   {
@@ -260,7 +260,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 470
   },
   {
@@ -271,7 +271,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 472
   },
   {
@@ -282,7 +282,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Château (Bruynette)",
+    "bs_name": "Corroy-le-chateau (bruynette)",
     "bs_time": 473
   },
   {
@@ -293,7 +293,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 474
   },
   {
@@ -304,7 +304,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 478
   },
   {
@@ -315,7 +315,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 485
   },
   {
@@ -326,7 +326,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 490
   }
 ]

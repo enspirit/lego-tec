@@ -7,7 +7,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 723
   },
   {
@@ -18,7 +18,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 728
   },
   {
@@ -29,7 +29,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 733
   },
   {
@@ -40,7 +40,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 737
   },
   {
@@ -51,7 +51,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 739
   },
   {
@@ -62,7 +62,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 743
   },
   {
@@ -73,7 +73,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 747
   },
   {
@@ -84,7 +84,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 751
   },
   {
@@ -95,7 +95,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 754
   },
   {
@@ -106,7 +106,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 744
   },
   {
@@ -117,7 +117,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 749
   },
   {
@@ -128,7 +128,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 754
   },
   {
@@ -139,7 +139,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 758
   },
   {
@@ -150,7 +150,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 760
   },
   {
@@ -161,7 +161,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 764
   },
   {
@@ -172,7 +172,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 768
   },
   {
@@ -183,7 +183,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 772
   },
   {
@@ -194,7 +194,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "3",
     "bl_days": "**3****",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 775
   },
   {
@@ -205,7 +205,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 783
   },
   {
@@ -216,7 +216,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 788
   },
   {
@@ -227,7 +227,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 793
   },
   {
@@ -238,7 +238,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 797
   },
   {
@@ -249,7 +249,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 799
   },
   {
@@ -260,7 +260,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 803
   },
   {
@@ -271,7 +271,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 807
   },
   {
@@ -282,7 +282,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 811
   },
   {
@@ -293,7 +293,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "9",
     "bl_days": "**3****",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 814
   },
   {
@@ -304,7 +304,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 970
   },
   {
@@ -315,7 +315,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 975
   },
   {
@@ -326,7 +326,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 980
   },
   {
@@ -337,7 +337,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 984
   },
   {
@@ -348,7 +348,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 986
   },
   {
@@ -359,7 +359,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 990
   },
   {
@@ -370,7 +370,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 994
   },
   {
@@ -381,7 +381,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 998
   },
   {
@@ -392,7 +392,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "13",
     "bl_days": "12*45**",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 1001
   },
   {
@@ -403,7 +403,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 970
   },
   {
@@ -414,7 +414,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 975
   },
   {
@@ -425,7 +425,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 980
   },
   {
@@ -436,7 +436,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 984
   },
   {
@@ -447,7 +447,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 986
   },
   {
@@ -458,7 +458,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 990
   },
   {
@@ -469,7 +469,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 994
   },
   {
@@ -480,7 +480,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 998
   },
   {
@@ -491,7 +491,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "11",
     "bl_days": "12*45**",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 1001
   },
   {
@@ -502,7 +502,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 984
   },
   {
@@ -513,7 +513,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 989
   },
   {
@@ -524,7 +524,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 994
   },
   {
@@ -535,7 +535,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 998
   },
   {
@@ -546,7 +546,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 1000
   },
   {
@@ -557,7 +557,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 1004
   },
   {
@@ -568,7 +568,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 1008
   },
   {
@@ -579,7 +579,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 1012
   },
   {
@@ -590,7 +590,7 @@
     "bl_direction": "Vers Ligny",
     "bl_num": "15",
     "bl_days": "12*45**",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 1015
   },
   {
@@ -601,7 +601,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 448
   },
   {
@@ -612,7 +612,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 450
   },
   {
@@ -623,7 +623,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 454
   },
   {
@@ -634,7 +634,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 459
   },
   {
@@ -645,7 +645,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 461
   },
   {
@@ -656,7 +656,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 463
   },
   {
@@ -667,7 +667,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 467
   },
   {
@@ -678,7 +678,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 474
   },
   {
@@ -689,7 +689,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 479
   },
   {
@@ -700,7 +700,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 465
   },
   {
@@ -711,7 +711,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 467
   },
   {
@@ -722,7 +722,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 471
   },
   {
@@ -733,7 +733,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 476
   },
   {
@@ -744,7 +744,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 478
   },
   {
@@ -755,7 +755,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 480
   },
   {
@@ -766,7 +766,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 484
   },
   {
@@ -777,7 +777,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 491
   },
   {
@@ -788,7 +788,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "4",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 496
   },
   {
@@ -799,7 +799,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "LIGNY Quatre Bras",
+    "bs_name": "Ligny (quatre bras)",
     "bs_time": 490
   },
   {
@@ -810,7 +810,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Ligny (Gare du Sud)",
+    "bs_name": "Ligny (gare du sud)",
     "bs_time": 492
   },
   {
@@ -821,7 +821,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Sombreffe (Place du Stain)",
+    "bs_name": "Sombreffe (place du stain)",
     "bs_time": 496
   },
   {
@@ -832,7 +832,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Tongrinne (Docq)",
+    "bs_name": "Tongrinne (docq)",
     "bs_time": 501
   },
   {
@@ -843,7 +843,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (La ronce)",
+    "bs_name": "Corroy-le-chateau (la ronce)",
     "bs_time": 503
   },
   {
@@ -854,7 +854,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 505
   },
   {
@@ -865,7 +865,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 509
   },
   {
@@ -876,7 +876,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 516
   },
   {
@@ -887,7 +887,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "6",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 521
   }
 ]

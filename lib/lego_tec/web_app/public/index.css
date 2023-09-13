@@ -40,6 +40,19 @@ header.titles {
   margin-bottom: 1rem;
 }
 
+.form-group.radios {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.form-group.radios .form-check + .form-check {
+  margin-left: 1rem;
+}
+
+main {
+  margin-bottom: 3rem;
+}
+
 footer {
   padding: 1rem;
   font-size: 0.9rem;
@@ -54,7 +67,7 @@ footer {
   header.controls {
     display: flex;
     justify-content: center;
-    margin: 20px 0 50px 0;
+    margin: 10px 0 10px 0;
   }
   header.controls > div {
     display: flex;
@@ -70,6 +83,9 @@ footer {
   footer {
     position: absolute;
     bottom: 0;
+  }
+  .mobile-only {
+    display: none;
   }
 }
 

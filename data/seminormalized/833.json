@@ -7,7 +7,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 745
   },
   {
@@ -18,7 +18,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 750
   },
   {
@@ -29,7 +29,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 755
   },
   {
@@ -40,7 +40,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Grand-Manil (Clos Normand)",
+    "bs_name": "Grand-manil (clos normand)",
     "bs_time": 756
   },
   {
@@ -51,7 +51,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 759
   },
   {
@@ -62,7 +62,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_name": "Corroy-le-chateau (place communale)",
     "bs_time": 763
   },
   {
@@ -73,7 +73,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Bothey (Chapelle)",
+    "bs_name": "Bothey (chapelle)",
     "bs_time": 768
   },
   {
@@ -84,7 +84,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Bothey (Chat botté)",
+    "bs_name": "Bothey (chat botté)",
     "bs_time": 769
   },
   {
@@ -95,7 +95,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Saint-Martin (Centre)",
+    "bs_name": "Saint-martin (centre)",
     "bs_time": 774
   },
   {
@@ -106,7 +106,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Boignée (Place)",
+    "bs_name": "Boignée (place)",
     "bs_time": 782
   },
   {
@@ -117,7 +117,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_name": "Tongrinne (tongrenelle centre)",
     "bs_time": 786
   },
   {
@@ -128,7 +128,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "1",
     "bl_days": "**3****",
-    "bs_name": "Tongrinne (Place)",
+    "bs_name": "Tongrinne (place)",
     "bs_time": 789
   },
   {
@@ -139,7 +139,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 985
   },
   {
@@ -150,7 +150,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 990
   },
   {
@@ -161,7 +161,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 995
   },
   {
@@ -172,7 +172,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Grand-Manil (Clos Normand)",
+    "bs_name": "Grand-manil (clos normand)",
     "bs_time": 996
   },
   {
@@ -183,7 +183,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 999
   },
   {
@@ -194,7 +194,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_name": "Corroy-le-chateau (place communale)",
     "bs_time": 1003
   },
   {
@@ -205,7 +205,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Bothey (Chapelle)",
+    "bs_name": "Bothey (chapelle)",
     "bs_time": 1008
   },
   {
@@ -216,7 +216,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Bothey (Chat botté)",
+    "bs_name": "Bothey (chat botté)",
     "bs_time": 1009
   },
   {
@@ -227,7 +227,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Saint-Martin (Centre)",
+    "bs_name": "Saint-martin (centre)",
     "bs_time": 1014
   },
   {
@@ -238,7 +238,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Boignée (Place)",
+    "bs_name": "Boignée (place)",
     "bs_time": 1022
   },
   {
@@ -249,7 +249,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_name": "Tongrinne (tongrenelle centre)",
     "bs_time": 1026
   },
   {
@@ -260,7 +260,7 @@
     "bl_direction": "Vers Tongrinne",
     "bl_num": "3",
     "bl_days": "12*45**",
-    "bs_name": "Tongrinne (Place)",
+    "bs_name": "Tongrinne (place)",
     "bs_time": 1029
   },
   {
@@ -271,7 +271,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Tongrinne (Place)",
+    "bs_name": "Tongrinne (place)",
     "bs_time": 441
   },
   {
@@ -282,7 +282,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Tongrinne (Tongrenelle Centre)",
+    "bs_name": "Tongrinne (tongrenelle centre)",
     "bs_time": 444
   },
   {
@@ -293,7 +293,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Boignée (Place)",
+    "bs_name": "Boignée (place)",
     "bs_time": 448
   },
   {
@@ -304,7 +304,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "BALATRE (Village)",
+    "bs_name": "Balatre (village)",
     "bs_time": 454
   },
   {
@@ -315,7 +315,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Saint-Martin (Centre)",
+    "bs_name": "Saint-martin (centre)",
     "bs_time": 456
   },
   {
@@ -326,7 +326,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Bothey (Chat botté)",
+    "bs_name": "Bothey (chat botté)",
     "bs_time": 461
   },
   {
@@ -337,7 +337,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Bothey (Chapelle)",
+    "bs_name": "Bothey (chapelle)",
     "bs_time": 462
   },
   {
@@ -348,7 +348,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Château (Place communale)",
+    "bs_name": "Corroy-le-chateau (place communale)",
     "bs_time": 468
   },
   {
@@ -359,7 +359,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Corroy-le-Chateau (Maison dricot)",
+    "bs_name": "Corroy-le-chateau (maison dricot)",
     "bs_time": 472
   },
   {
@@ -370,7 +370,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Grand-Manil (Chaussée de Charleroi)",
+    "bs_name": "Grand-manil (chaussée de charleroi)",
     "bs_time": 476
   },
   {
@@ -381,7 +381,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Gare)",
+    "bs_name": "Gembloux (gare)",
     "bs_time": 483
   },
   {
@@ -392,7 +392,7 @@
     "bl_direction": "Vers Gembloux",
     "bl_num": "2",
     "bl_days": "12345**",
-    "bs_name": "Gembloux (Quatre Coins)",
+    "bs_name": "Gembloux (quatre coins)",
     "bs_time": 488
   }
 ]

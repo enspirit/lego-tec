@@ -21,6 +21,7 @@ module LegoTec
       min_hour = (params['min-hour'] || 5).to_i
       max_hour = (params['max-hour'] || 9).to_i
       options = {
+        mode: params["mode"] || "poles",
         from: params["from"],
         to: params["to"],
         day: (params["day"] || "1").to_i,
@@ -29,50 +30,7 @@ module LegoTec
         max_hour: max_hour*60,
         slot_size: 60,
       }
-      slots = settings.db.slots_for(options)
-      systems = settings.db
-        .comparison_table_for(options, slots)
-        .to_a
-      data = {
-        :days => settings.db
-          .days
-          .extend({
-            is_day: ->(t){ t[:day_num] == options[:day] },
-          })
-          .to_a
-          .sort{|t1,t2| t1[:day_num] <=> t2[:day_num] },
-        :variants => settings.db
-          .variants
-          .extend({
-            is_variant: ->(t){ t[:bl_variant] == options[:variant] },
-          })
-          .to_a,
-        :stops => settings.db
-          .stops
-          .extend({
-            is_from: ->(t){ t[:bs_name] == options[:from] },
-            is_to: ->(t){ t[:bs_name] == options[:to] },
-          })
-          .to_a
-          .sort{|s1,s2|
-            s1[:bs_name].downcase <=> s2[:bs_name].downcase
-          },
-        :slots => slots
-          .to_a,
-        :systems => systems,
-        :empty => systems.empty?,
-        :full_colspan => 1+slots.count,
-        :hours => (5..20).map{|h|
-          {
-            :hour => h,
-            :is_min_hour => h == min_hour,
-            :is_max_hour => h == max_hour,
-          }
-        },
-        :min_hour => options[:min_hour]/60,
-        :max_hour => options[:max_hour]/60,
-      }
-      Mustache.render(tpl.read, data)
+      Mustache.render(tpl.read, Views::Home.new(settings.db, options))
     end
   end
 end
