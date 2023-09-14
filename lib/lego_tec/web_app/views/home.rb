@@ -1,39 +1,12 @@
 module LegoTec
   class WebApp
     module Views
-      class Home
+      class Home < View
         def initialize(base, options)
           @base = base
           @options = options
         end
         attr_reader :base, :options
-
-        def full_stops_rv
-          @full_stops_rv ||= options[:mode] == "poles" ? base.poles_data : base.full_stops_data
-        end
-
-        def days
-          @days ||= base
-            .days
-            .extend({
-              is_day: ->(t){ t[:day_num] == options[:day] },
-            })
-            .to_a
-            .sort{|t1,t2| t1[:day_num] <=> t2[:day_num] }
-        end
-
-        def variants_rv
-          @variants_rv ||= full_stops_rv
-            .project([:bl_variant])
-        end
-
-        def variants
-          @variants ||= variants_rv
-            .extend({
-              is_variant: ->(t){ t[:bl_variant] == options[:variant] },
-            })
-            .to_a
-        end
 
         def stops_rv
           @stops_rv ||= full_stops_rv
@@ -75,35 +48,14 @@ module LegoTec
         end
 
         def systems_rv
-          min_hour  = options[:min_hour]
-          max_hour  = options[:max_hour]
           slot_size = options[:slot_size]
-          day       = options[:day]
-          variant   = options[:variant]
           from      = options[:from]
           to        = options[:to]
 
-          full_stops_rv
-            .join(
-              full_stops_rv.rename({
-                :bs_name => :cs_name,
-                :bs_time => :cs_time
-              }),
-              [:b_name, :bl_system, :bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days]
-            )
+          summarized_hops
             .restrict({
-              :bl_variant => [variant, "TOUT"],
               :bs_name => from,
               :cs_name => to,
-            })
-            .restrict(
-              Predicate.gte(:bs_time, min_hour) & Predicate.lt(:bs_time, max_hour)
-            )
-            .restrict(
-              Predicate.lt(:bs_time, :cs_time)
-            )
-            .restrict(->(t) {
-              t[:bl_days][day-1...day] == day.to_s
             })
             .summarize(
               [:b_name, :bl_system, :bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days],
@@ -171,38 +123,8 @@ module LegoTec
           1+slots.size
         end
 
-        def hours
-          (5..20).map{|h|
-            {
-              :hour => h,
-              :is_min_hour => h == min_hour,
-              :is_max_hour => h == max_hour,
-            }
-          }
-        end
-
-        def min_hour
-          options[:min_hour]/60
-        end
-
-        def max_hour
-          options[:max_hour]/60
-        end
-
-        def is_stops_mode
-          options[:mode] == "stops"
-        end
-
-        def is_poles_mode
-          options[:mode] == "poles"
-        end
-
-      private
-
-        def to_human_time(time)
-          h = time/60
-          m = time % 60
-          m == 0 ? "#{h}h" : "#{h}h#{m.to_s.rjust(2, '0')}"
+        def is_bus_lines_page
+          true
         end
       end
     end

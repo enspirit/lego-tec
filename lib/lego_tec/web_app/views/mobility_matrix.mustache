@@ -1,0 +1,142 @@
+<form
+  id="form"
+  method="GET"
+  action="/matrices-de-mobilite#matrices">
+  <header
+    class="controls">
+    <div
+      class="form-group">
+      <label
+        for="days-select">
+        Jour
+      </label>
+      <select
+        id="days-select"
+        class="form-control"
+        name="day">
+        {{#days}}
+        <option
+          value="{{day_num}}"
+          {{#is_day}}selected{{/is_day}}>
+          {{day_name}}
+        </option>
+        {{/days}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
+        for="variants-select">
+        Période
+      </label>
+      <select
+        id="variants-select"
+        class="form-control"
+        name="variant">
+        {{#variants}}
+        <option
+          value="{{bl_variant}}"
+          {{#is_variant}}selected{{/is_variant}}>
+          {{bl_variant}}
+        </option>
+        {{/variants}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
+        for="min-hour">
+        Heure de début
+      </label>
+      <select
+        id="min-hour"
+        class="form-control"
+        name="min-hour">
+        {{#hours}}
+        <option
+          value="{{hour}}"
+          {{#is_min_hour}}selected{{/is_min_hour}}>
+          {{hour}}
+        </option>
+        {{/hours}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
+        for="max-hour">
+        Heure de fin
+      </label>
+      <select
+        id="max-hour"
+        class="form-control"
+        name="max-hour">
+        {{#hours}}
+        <option
+          value="{{hour}}"
+          {{#is_max_hour}}selected{{/is_max_hour}}>
+          {{hour}}
+        </option>
+        {{/hours}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label>&nbsp;</label>
+      <button
+        type="submit"
+        class="form-control">
+        Soumettre ⬇️
+      </button>
+    </div>
+  </header>
+  <main
+    id="matrices">
+    <h3>Matrice de mobilité</h3>
+    <p
+      class="center">
+      Attention, cette grille ne tient compte à l'heure actuelle que des lignes 147a, 247a, 347a, 831, 832, 833, E83 et E85.
+    </p>
+    {{^empty}}
+      <table
+        class="table table-bordered table-hover table-sm table-matrix">
+        <thead>
+          <tr>
+            <th></th>
+            {{#stops}}
+            <th
+              class="center">
+              {{bs_name}}
+            {{/stops}}
+          </tr>
+        </thead>
+        <tbody>
+          {{#rows}}
+          <tr>
+            <td
+              class="right">
+              {{bs_name}}
+            </td>
+            {{#columns}}
+              <td
+                class="center {{value.color}}">
+                {{value.label}}
+              </td>
+            {{/columns}}
+          </tr>
+          {{/rows}}
+        </tbody>
+      </table>
+    {{/empty}}
+    {{#empty}}
+      <div class="alert alert-primary" role="alert">
+        <p>Veuillez choisir une liste d'arrêts ou villes.</p>
+      </div>
+    {{/empty}}
+  </main>
+  <button
+    class="form-control mobile-only"
+    onclick="window.scrollTop()">
+    Retour ⬆️
+  </button>
+</form>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Comparateur d'horaires - Lego-TEC</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+    crossorigin="anonymous">
+  <link
+    rel="stylesheet"
+    href="/index.css">
+  <script
+    src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+    crossorigin="anonymous"></script>
+  <script>
+    window.scrollTop = function() {
+      $('html, body').animate({
+        scrollTop: $("#form").offset().top
+      }, 500);
+    }
+  </script>
+</head>
+<body>
+<nav>
+  <h1>Observatoire du redéploiement TEC</h1>
+  <ul>
+    <li>
+      <a
+        {{#is_bus_lines_page}}class="active"{{/is_bus_lines_page}}
+        href="/">
+        Lignes avant/après
+      </a>
+    </li>
+    <li>
+      <a
+        {{#is_mobility_matrix_page}}class="active"{{/is_mobility_matrix_page}}
+        href="/matrices-de-mobilite">
+        Matrices de mobilité
+      </a>
+    </li>
+  </ul>
+</nav>
+{{{body}}}
+<footer>
+  <div>
+    Une initiative
+    <a href="https://www.facebook.com/groups/729876525065680/" target="_blank">Mobilisés pour notre Mobilité!</a>
+  </div>
+  <div>
+    Aucun cookie, aucune donnée personnelle.
+  </div>
+  <div>
+    Code open source <a href="https://github.com/enspirit/lego-tec" target="_blank">sur github</a>.
+  </div>
+  <div>
+    Avec le soutien d'<a href="https://enspirit.be" target="_blank">Enspirit</a>.
+  </div>
+  <div>
+    Contact: blambeau @ enspirit.be
+  </div>
+  <div>
+    Mis à jour le 14 sept. 2023
+  </div>
+</footer>
+<script>
+  $(function() {
+    $(".form-check-input").click(function() {
+      $("form").submit();
+    });
+  });
+</script>
+</body>
+</html>

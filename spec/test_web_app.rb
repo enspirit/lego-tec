@@ -7,8 +7,13 @@ describe LegoTec::WebApp do
     LegoTec::WebApp
   end
 
-  it 'works' do
+  it 'serves bus lines' do
     get '/'
+    expect(last_response).to be_ok
+  end
+
+  it 'serves matrices' do
+    get '/matrices-de-mobilite'
     expect(last_response).to be_ok
   end
 
