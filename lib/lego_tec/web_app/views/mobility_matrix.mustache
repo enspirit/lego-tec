@@ -5,6 +5,40 @@
   <header
     class="controls">
     <div
+      class="form-group radios">
+      <div class="form-check">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="matrix-mode"
+          id="matrix-mode-count"
+          value="count"
+          {{#is_count_matrix_mode}}checked{{/is_count_matrix_mode}}>
+        <label
+          class="form-check-label"
+          for="matrix-mode-count">
+          Nombre de bus
+        </label>
+      </div>
+      <div class="form-check">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="matrix-mode"
+          id="matrix-mode-speed"
+          value="speed"
+          {{#is_speed_matrix_mode}}checked{{/is_speed_matrix_mode}}>
+        <label
+          class="form-check-label"
+          for="matrix-mode-speed">
+          Temps de parcours
+        </label>
+      </div>
+    </div>
+  </header>
+  <header
+    class="controls">
+    <div
       class="form-group">
       <label
         for="days-select">

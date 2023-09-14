@@ -61,7 +61,7 @@ module LegoTec
               [:b_name, :bl_system, :bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days],
               {
                 :bs_time => :min,
-                :cs_time => :max
+                :cs_time => :min,
               }
             )
             .extend({

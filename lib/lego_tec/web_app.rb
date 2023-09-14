@@ -39,6 +39,7 @@ module LegoTec
       max_hour = (params['max-hour'] || 9).to_i
       options = {
         mode: params["mode"] || "poles",
+        matrix_mode: params["matrix-mode"] || "count",
         from: params["from"],
         to: params["to"],
         day: (params["day"] || "1").to_i,

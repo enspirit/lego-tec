@@ -22,13 +22,23 @@ module LegoTec
 
         def values_rv
           summarized_hops
-            .project([:bs_name, :cs_name, :bl_num, :bl_system])
-            .group([:bl_system, :bl_num], :value)
+            .summarize(
+              [:bs_name, :cs_name, :bl_num, :bl_system],
+              {
+                :bs_time => :min,
+                :cs_time => :min,
+              }
+            )
+            .project([:bs_name, :cs_name, :bs_time, :cs_time, :bl_num, :bl_system])
+            .group([:bl_system, :bl_num, :bs_time, :cs_time], :value)
             .extend({
               :value => ->(t) {
                 h = t[:value]
-                  .summarize([:bl_system], :bl_num => :count)
-                  .y_by_x(:bl_num, :bl_system)
+                  .extend({
+                    speed: ->(t){ t[:cs_time] - t[:bs_time] }
+                  })
+                  .summarize([:bl_system], :bl_num => :count, :speed => :avg)
+                  .y_by_x(is_count_matrix_mode ? :bl_num : :speed, :bl_system)
                 value_h(h)
               }
             })
@@ -58,6 +68,14 @@ module LegoTec
           false
         end
 
+        def is_count_matrix_mode
+          options[:matrix_mode] == 'count'
+        end
+
+        def is_speed_matrix_mode
+          options[:matrix_mode] == 'speed'
+        end
+
         def is_mobility_matrix_page
           true
         end
@@ -65,25 +83,64 @@ module LegoTec
       protected
 
         def value_h(value)
-          before = value["AVANT"]
-          after  = value["APRES"]
-          if before && after
-            if before < after
+          before = value["AVANT"]&.to_i
+          after  = value["APRES"]&.to_i
+          if is_count_matrix_mode
+            if before && after
+              if before < after
+                # more busses
+                color = "good"
+                label = "+#{after-before}"
+              elsif before > after
+                # less busses
+                color = "warning"
+                label = "-#{before-after}"
+              else
+                # same busses
+                color = "neutral"
+                label = "/"
+              end
+            elsif before
+              # no more bus
+              color = "danger"
+              label = "-#{before}"
+            elsif after
+              # new busses only
               color = "good"
-              label = "+#{after-before}"
+              label = "+#{after}"
             else
-              color = "warning"
-              label = "-#{before-after}"
+              # still no bus...
+              color = "neutral"
+              label = "/"
             end
-          elsif before
-            color = "danger"
-            label = "-#{before}"
-          elsif after
-            color = "good"
-            label = "+#{after}"
           else
-            color = "neutral"
-            label = "/"
+            if before && after
+              if before < after
+                # longer than before
+                color = "warning"
+                label = "+#{after-before}"
+              elsif before > after
+                # faster than before
+                color = "good"
+                label = "-#{before-after}"
+              else
+                # same speed
+                color = "neutral"
+                label = "="
+              end
+            elsif before
+              # no more bus
+              color = "neutral"
+              label = ""
+            elsif after
+              # new buses only
+              color = "neutral"
+              label = ""
+            else
+              # still no bus...
+              color = "neutral"
+              label = ""
+            end
           end
           {
             color: color,

@@ -73,7 +73,7 @@ td.danger {
   color: white;
 }
 td.neutral {
-  background-color: white;
+  background-color: transparent;
 }
 
 nav ul {
