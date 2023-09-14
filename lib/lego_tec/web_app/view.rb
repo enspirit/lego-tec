@@ -35,6 +35,7 @@ module LegoTec
         max_hour  = options[:max_hour]
         day       = options[:day]
         variant   = options[:variant]
+        slot_size = options[:slot_size]
 
         full_stops_rv
           .join(
@@ -48,7 +49,7 @@ module LegoTec
             :bl_variant => [variant, "TOUT"],
           })
           .restrict(
-            Predicate.gte(:bs_time, min_hour) & Predicate.lt(:bs_time, max_hour)
+            Predicate.gte(:bs_time, min_hour) & Predicate.lte(:bs_time, max_hour+slot_size)
           )
           .restrict(
             Predicate.lt(:bs_time, :cs_time)
@@ -59,7 +60,7 @@ module LegoTec
       end
 
       def hours
-        (5..20).map{|h|
+        (5..21).map{|h|
           {
             :hour => h,
             :is_min_hour => h == min_hour,
