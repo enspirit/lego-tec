@@ -38,6 +38,7 @@ module LegoTec
       min_hour = (params['min-hour'] || 5).to_i
       max_hour = (params['max-hour'] || 9).to_i
       options = {
+        focus: params["focus"],
         mode: params["mode"] || "poles",
         matrix_mode: params["matrix-mode"] || "count",
         from: params["from"],

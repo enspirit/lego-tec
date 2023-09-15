@@ -60,6 +60,16 @@ footer {
   text-align: center;
 }
 
+table.table-matrix {
+  width: auto;
+  margin: auto;
+}
+table.table-matrix td {
+  max-width: 150px;
+}
+table.table-matrix td.no-focus {
+  opacity: 0.25;
+}
 td.good {
   background-color: green;
   color: white;

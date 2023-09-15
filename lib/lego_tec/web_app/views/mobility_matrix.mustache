@@ -41,6 +41,29 @@
     <div
       class="form-group">
       <label
+        for="focus-select">
+        Focus sur
+      </label>
+      <select
+        id="focus-select"
+        class="form-control"
+        name="focus">
+        <option
+          value="">
+          -- Aucun --
+        </option>
+        {{#poles}}
+        <option
+          value="{{bs_name}}"
+          {{#is_focus}}selected{{/is_focus}}>
+          {{bs_name}}
+        </option>
+        {{/poles}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
         for="days-select">
         Jour
       </label>
@@ -153,7 +176,7 @@
             </td>
             {{#columns}}
               <td
-                class="center {{value.color}}">
+                class="center {{value.color}} {{value.focus}}">
                 {{value.label}}
               </td>
             {{/columns}}

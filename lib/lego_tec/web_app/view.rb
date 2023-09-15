@@ -7,6 +7,19 @@ module LegoTec
         @full_stops_rv ||= options[:mode] == "poles" ? base.poles_data : base.full_stops_data
       end
 
+      def poles_rv
+        base
+          .poles_data
+          .project([:bs_name])
+          .extend(:is_focus => ->(t) { t[:bs_name] == options[:focus] })
+      end
+
+      def poles
+        @poles ||= poles_rv
+          .to_a
+          .sort{|t1,t2| t1[:bs_name] <=> t2[:bs_name] }
+      end
+
       def days
         @days ||= base
           .days

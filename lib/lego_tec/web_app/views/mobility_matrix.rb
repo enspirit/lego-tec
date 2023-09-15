@@ -9,9 +9,16 @@ module LegoTec
         attr_reader :base, :options
 
         def stops_rv
-          full_stops_rv
-            .project([:bs_name])
-            .materialize
+          if options[:focus] && !options[:focus].empty?
+            @stops_rv ||= values_rv
+              .restrict(Predicate.eq(:bs_name, options[:focus]) | Predicate.eq(:cs_name, options[:focus]))
+              .project([:cs_name])
+              .rename(:cs_name => :bs_name)
+          else
+            @stops_rv ||= full_stops_rv
+              .project([:bs_name])
+              .materialize
+          end
         end
 
         def stops
@@ -21,7 +28,7 @@ module LegoTec
         end
 
         def values_rv
-          summarized_hops
+          @values_rv ||= summarized_hops
             .summarize(
               [:bs_name, :cs_name, :bl_num, :bl_system],
               {
@@ -39,9 +46,10 @@ module LegoTec
                   })
                   .summarize([:bl_system], :bl_num => :count, :speed => :avg)
                   .y_by_x(is_count_matrix_mode ? :bl_num : :speed, :bl_system)
-                value_h(h)
+                value_h(t, h)
               }
             })
+            .materialize
         end
 
         def rows_rv
@@ -51,7 +59,7 @@ module LegoTec
         def rows
           rows_rv
             .join(rows_rv.rename(:bs_name => :cs_name), [])
-            .left_join(values_rv, [:bs_name, :cs_name], { value: nil })
+            .left_join(values_rv, [:bs_name, :cs_name], { :value => nil })
             .group([:cs_name, :value], :columns)
             .extend({
               :columns => ->(t) {
@@ -82,7 +90,7 @@ module LegoTec
 
       protected
 
-        def value_h(value)
+        def value_h(t, value)
           before = value["AVANT"]&.to_i
           after  = value["APRES"]&.to_i
           if is_count_matrix_mode
@@ -142,8 +150,11 @@ module LegoTec
               label = ""
             end
           end
+          focus = options[:focus]
+          focus_class = (focus && (t[:bs_name] == focus || t[:cs_name] == focus)) ? "focus" : "no-focus"
           {
             color: color,
+            focus: focus_class,
             label: "#{label}"
           }
         end
