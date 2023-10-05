@@ -102,6 +102,46 @@
     <div
       class="form-group">
       <label
+        for="line-type-select">
+        Type de ligne
+      </label>
+      <select
+        id="line-type-select"
+        class="form-control"
+        name="line_type[]"
+        multiple="true">
+        {{#line_types}}
+        <option
+          value="{{bl_type}}"
+          {{#is_line_type}}selected{{/is_line_type}}>
+          {{bl_type}}
+        </option>
+        {{/line_types}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
+        for="line-select">
+        Lignes
+      </label>
+      <select
+        id="line-select"
+        class="form-control"
+        name="line[]"
+        multiple="true">
+        {{#lines}}
+        <option
+          value="{{b_name}}"
+          {{#is_line}}selected{{/is_line}}>
+          {{b_name}}
+        </option>
+        {{/lines}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
         for="min-hour">
         Heure de début
       </label>
@@ -150,10 +190,6 @@
   <main
     id="matrices">
     <h3>Matrice de mobilité</h3>
-    <p
-      class="center">
-      Attention, cette grille ne tient compte à l'heure actuelle que des lignes 147a, 247a, 347a, 831, 832, 833, E83 et E85.
-    </p>
     {{^empty}}
       <table
         class="table table-bordered table-hover table-sm table-matrix">

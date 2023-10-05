@@ -13,6 +13,7 @@ module LegoTec
   DATA_FOLDER = ROOT_FOLDER/'data'
   RAW_DATA_FOLDER = DATA_FOLDER/'raw_data'
   SEMINORMALIZED_DATA_FOLDER = DATA_FOLDER/'seminormalized'
+  GTFS_DATA_FOLDER = DATA_FOLDER/'gtfs'
 end
 
 loader.eager_load

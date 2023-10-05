@@ -105,6 +105,13 @@ nav ul li a.active {
   text-decoration: underline;
 }
 
+#line-type-select {
+  height: 60px;
+}
+#line-select {
+  height: 150px;
+}
+
 @media only screen and (min-width: 1024px) {
   body {
     margin: 1%;

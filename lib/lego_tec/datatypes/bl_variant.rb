@@ -2,12 +2,17 @@ module LegoTec
   module Datatypes
     class BlVariant
       VARIANTS = {
+        "SC" => "SCOLAIRE",
+        "VA" => "VACANCES",
+        "DI" => "AUTRE",
+        "BW" => "AUTRE",
+        "SA" => "AUTRE",
         "Période scolaire" => "SCOLAIRE",
         "Vacances scolaires" => "VACANCES",
-        "Toutes périodes" => "TOUT",
+        "Toutes périodes" => "AUTRE",
         "SCOLAIRE" => "SCOLAIRE",
         "VACANCES" => "VACANCES",
-        "SAMEDI" => "TOUT",
+        "SAMEDI" => "AUTRE",
       }
 
       def self.normalize(x)

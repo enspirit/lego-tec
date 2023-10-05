@@ -117,6 +117,46 @@
     <div
       class="form-group">
       <label
+        for="line-type-select">
+        Type de ligne
+      </label>
+      <select
+        id="line-type-select"
+        class="form-control"
+        name="line_type[]"
+        multiple="true">
+        {{#line_types}}
+        <option
+          value="{{bl_type}}"
+          {{#is_line_type}}selected{{/is_line_type}}>
+          {{bl_type}}
+        </option>
+        {{/line_types}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
+        for="line-select">
+        Lignes
+      </label>
+      <select
+        id="line-select"
+        class="form-control"
+        name="line[]"
+        multiple="true">
+        {{#lines}}
+        <option
+          value="{{b_name}}"
+          {{#is_line}}selected{{/is_line}}>
+          {{b_name}}
+        </option>
+        {{/lines}}
+      </select>
+    </div>
+    <div
+      class="form-group">
+      <label
         for="min-hour">
         Heure de début
       </label>
@@ -165,10 +205,6 @@
   <main
     id="timelines">
     <h3>Horaires des lignes*</h3>
-    <p
-      class="center">
-      Attention, cette grille ne tient compte à l'heure actuelle que des lignes 147a, 247a, 347a, 831, 832, 833, E83 et E85.
-    </p>
     {{^empty}}
       <table
         class="table table-bordered table-hover table-sm">
@@ -219,7 +255,7 @@
         <p>Il n'existe aucune données pour ce trajet, veuillez choisir d'autre arrêts.</p>
         <p>Avant de tirer des conclusions, merci de tenir compte des éléments suivants:</p>
         <ul>
-          <li>Seules les lignes 147a, 247a, 347a, 831, 832, 833, E83 et E85 sont prises en compte actuellement.</li>
+          <li>L'ensemble du réseau TEC n'est pas pris en compte pour toutes les communes et villages, puisque seules les lignes sélectionnées sont prises en compte dans l'analyse.</li>
           <li>Le TEC à la demande n'est pas pris en compte ici et peut offrir une solution de remplacement.</li>
           <li>L'outil n'est pas un planificateur de trajet: seuls les trajets empruntant une seule ligne de bus sont pris en compte.</li>
         </ul>

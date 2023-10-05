@@ -58,7 +58,16 @@ module LegoTec
               :cs_name => to,
             })
             .summarize(
-              [:b_name, :bl_system, :bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days],
+              [
+                :b_name,
+                :bl_system,
+                :bl_type,
+                :bl_title,
+                :bl_variant,
+                :bl_direction,
+                :bl_num,
+                :bl_days
+              ],
               {
                 :bs_time => :min,
                 :cs_time => :min,
@@ -70,17 +79,37 @@ module LegoTec
               :cs_time_human => ->(t){ to_human_time(t[:cs_time]) },
             })
             .group(
-              [:bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days, :bs_slot, :bs_time, :cs_time, :bs_time_human, :cs_time_human],
+              [
+                :bl_title,
+                :bl_type,
+                :bl_variant,
+                :bl_direction,
+                :bl_num,
+                :bl_days,
+                :bs_slot,
+                :bs_time,
+                :cs_time,
+                :bs_time_human,
+                :cs_time_human
+              ],
               :slots
             )
             .extend({
               :slots => ->(t) {
                 slots_rv.left_join(
                   t[:slots]
-                    .group(
-                      [:bl_title, :bl_variant, :bl_direction, :bl_num, :bl_days, :bs_time, :cs_time, :bs_time_human, :cs_time_human],
-                      :buses
-                    ),
+                    .group([
+                      :bl_title,
+                      :bl_type,
+                      :bl_variant,
+                      :bl_direction,
+                      :bl_num,
+                      :bl_days,
+                      :bs_time,
+                      :cs_time,
+                      :bs_time_human,
+                      :cs_time_human
+                    ], :buses),
                   [:bs_slot],
                   :buses => []
                 )

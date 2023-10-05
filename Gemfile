@@ -2,7 +2,7 @@ source "https://rubygems.org"
 gem 'google_drive'
 gem 'zeitwerk'
 gem 'path'
-gem 'bmg'
+gem 'bmg', '= 0.21.1'
 gem 'mustache'
 gem 'sinatra'
 gem 'mustache-sinatra'

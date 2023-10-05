@@ -2,18 +2,21 @@ module LegoTec
   module Data
     class Base
       def full_stops_data
-        FullData.new.materialize
+        @full_stops_data ||= FullData
+          .new
+          .materialize
       end
 
       def poles_data
-        full_stops_data
+        @poles_data ||= full_stops_data
           .extend({
             :bs_name => ->(t){
-              t[:bs_name][/^(.*?)(\s*\(.*\))?$/, 1]
+              t[:bs_name][/^([A-Z0-9a-z-]+)/, 1]
             }
           })
           .summarize([
             :b_name,
+            :bl_type,
             :bl_variant,
             :bl_direction,
             :bl_title,
@@ -28,13 +31,14 @@ module LegoTec
       end
 
       def days
-        Bmg::Relation.new([
+        @days ||= Bmg::Relation.new([
           "Lundi",
           "Mardi",
           "Mercredi",
           "Jeudi",
           "Vendredi",
           "Samedi",
+          "Dimanche"
         ].each_with_index.map do |day,i|
           {
             day_num: 1+i,
