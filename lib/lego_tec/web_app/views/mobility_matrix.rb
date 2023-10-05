@@ -15,7 +15,7 @@ module LegoTec
               .project([:cs_name])
               .rename(:cs_name => :bs_name)
           else
-            @stops_rv ||= full_stops_rv
+            @stops_rv ||= values_rv
               .project([:bs_name])
               .materialize
           end
@@ -30,14 +30,31 @@ module LegoTec
         def values_rv
           @values_rv ||= summarized_hops
             .summarize(
-              [:bs_name, :cs_name, :bl_num, :bl_system],
+              [
+                :bs_name,
+                :cs_name,
+                :bl_num,
+                :bl_system
+              ],
               {
                 :bs_time => :min,
                 :cs_time => :min,
               }
             )
-            .project([:bs_name, :cs_name, :bs_time, :cs_time, :bl_num, :bl_system])
-            .group([:bl_system, :bl_num, :bs_time, :cs_time], :value)
+            .project([
+              :bs_name,
+              :cs_name,
+              :bs_time,
+              :cs_time,
+              :bl_num,
+              :bl_system
+            ])
+            .group([
+              :bl_system,
+              :bl_num,
+              :bs_time,
+              :cs_time
+            ], :value)
             .extend({
               :value => ->(t) {
                 h = t[:value]
@@ -45,7 +62,7 @@ module LegoTec
                     speed: ->(t){ t[:cs_time] - t[:bs_time] }
                   })
                   .summarize([:bl_system], :bl_num => :count, :speed => :avg)
-                  .y_by_x(is_count_matrix_mode ? :bl_num : :speed, :bl_system)
+                  .y_by_x(y_attr_for_mode, :bl_system)
                 value_h(t, h)
               }
             })
@@ -80,8 +97,16 @@ module LegoTec
           options[:matrix_mode] == 'count'
         end
 
+        def is_count_delta_matrix_mode
+          options[:matrix_mode] == 'count-delta'
+        end
+
         def is_speed_matrix_mode
           options[:matrix_mode] == 'speed'
+        end
+
+        def is_speed_delta_matrix_mode
+          options[:matrix_mode] == 'speed-delta'
         end
 
         def is_mobility_matrix_page
@@ -90,10 +115,20 @@ module LegoTec
 
       protected
 
+        def y_attr_for_mode
+          if is_count_matrix_mode
+            :bl_num
+          elsif is_count_delta_matrix_mode
+            :bl_num
+          else
+            :speed
+          end
+        end
+
         def value_h(t, value)
           before = value["AVANT"]&.to_i
           after  = value["APRES"]&.to_i
-          if is_count_matrix_mode
+          if is_count_delta_matrix_mode
             if before && after
               if before < after
                 # more busses
@@ -121,7 +156,39 @@ module LegoTec
               color = "neutral"
               label = "/"
             end
-          else
+          elsif is_count_matrix_mode
+            label = "#{before} / #{after}"
+            if before && after
+              delta = after - before
+              color = if delta > 0
+                "good"
+              elsif delta == 0
+                "neutral"
+              else
+                "warning"
+              end
+            elsif before
+              color = "warning"
+            elsif after
+              color = "good"
+            end
+          elsif is_speed_matrix_mode
+            label = "#{before} / #{after}"
+            if before && after
+              delta = after - before
+              color = if delta > 0
+                "warning"
+              elsif delta == 0
+                "neutral"
+              else
+                "good"
+              end
+            elsif before
+              color = "warning"
+            elsif after
+              color = "good"
+            end
+          elsif is_speed_delta_matrix_mode
             if before && after
               if before < after
                 # longer than before

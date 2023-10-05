@@ -25,6 +25,20 @@
           class="form-check-input"
           type="radio"
           name="matrix-mode"
+          id="matrix-mode-count-delta"
+          value="count-delta"
+          {{#is_count_delta_matrix_mode}}checked{{/is_count_delta_matrix_mode}}>
+        <label
+          class="form-check-label"
+          for="matrix-mode-count-delta">
+          Gain / Perte en nombre
+        </label>
+      </div>
+      <div class="form-check">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="matrix-mode"
           id="matrix-mode-speed"
           value="speed"
           {{#is_speed_matrix_mode}}checked{{/is_speed_matrix_mode}}>
@@ -32,6 +46,20 @@
           class="form-check-label"
           for="matrix-mode-speed">
           Temps de parcours
+        </label>
+      </div>
+      <div class="form-check">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="matrix-mode"
+          id="matrix-mode-speed-delta"
+          value="speed-delta"
+          {{#is_speed_delta_matrix_mode}}checked{{/is_speed_delta_matrix_mode}}>
+        <label
+          class="form-check-label"
+          for="matrix-mode-speed-delta">
+          Gain / perte en temps
         </label>
       </div>
     </div>
