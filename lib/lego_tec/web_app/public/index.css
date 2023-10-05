@@ -65,6 +65,9 @@ footer {
   width: auto;
   margin: auto;
 }
+.table th {
+  vertical-align: middle !important;
+}
 .table td {
   min-width: 80px;
 }
